@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **13/10/18**|_TODO_|[Day 2](#day-2) **14/10/18**| _TODO_ |
+|[Day 1](#100daysofcode/PythonBasic.ipynb) **13/10/18**|_TODO_|[Day 2](#day-2) **14/10/18**| _TODO_ |
 |[Day 3](#day-3) **15/10/18**|_TODO_ |[Day 4](#day-4) **10/10/18**| _TODO_ |
 ----------
 <a name="day-1"></a>
