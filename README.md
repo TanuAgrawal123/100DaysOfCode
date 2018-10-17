@@ -6,7 +6,7 @@
 |:---:|:-----:|:---:|:-----:|
 <<<<<<< HEAD
 |[Day 1](#day-1) **15/10/18**| HTML Basics: various tags like anchor form,img etc|[Day 2](#day-2) **16/10/18**| CSS Basics:linking css file,about classes ,id,various css element and much more.  |
-|[Day 3](#day-3) **17/10/18**|_TODO_ |[Day 4](#day-4) **18/10/18**| _TODO_ |
+|[Day 3](#day-3) **17/10/18**|Basic Python:Dictionaries,fuction,center method,list,set,etc. |[Day 4](#day-4) **18/10/18**| _TODO_ |
 
 ----------
 <a name="day-1"></a>
