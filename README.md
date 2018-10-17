@@ -50,17 +50,18 @@
 
 ----------
 <a name="day-3"></a>
-### Day 3: October 15, 2018 
+### Day 3: October 17, 2018 
 
-**Today's Focus**: _TODO_
+**Today's Focus**: Basic Python:Dictionaries,fuction,center method,list,set,etc.
+
 
 **Details**:
 
- - _TODO_
- - _TODO_
- - _TODO_
+ - second day of learning basic in python
+ - more on list-(extending list,list in list),dictionaries-(value method,key method),function-(defination and calling a function,flexible no of argumrnt,default argument),set,tuples,center,strip.
+ 
 
-**Link to work**: [GitHub]()
+**Link to work**: [GitHub](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
 
 [Table of Contents](#toc)
 
