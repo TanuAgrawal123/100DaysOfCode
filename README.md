@@ -4,12 +4,9 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-<<<<<<< HEAD
-|[Day 1](#day-1) **15/10/18**| HTML Basics: various tags like anchor form,img etc|[Day 2](#day-2) **16/10/18**| CSS Basics:linking css file,about classes ,id,various css element and much more.  |
-|[Day 3](#day-3) **17/10/18**|Basic Python:Dictionaries,fuction,center method,list,set,etc. |[Day 4](#day-4) **18/10/18**| _TODO_ |
 
-----------
-<a name="day-1"></a>
+|[Day 1](#day-1) **15/10/18**| HTML Basics: various tags like anchor form,img etc|[Day 2](#day-2) **16/10/18**| CSS Basics:linking css file,about classes ,id,various css element and much more.|
+|[Day 3](#day-3) **17/10/18**|Basic Python:Dictionaries,function,center method,list,set,etc. |[Day 4](#day-4) **18/10/18**|  visual Design using CSS:box shadow property,@keyframes and animation property,z-index value etc.|
 ### Day 1: October 15, 2018 
 
 **Today's Focus**: HTML Basics: Various tags like anchor form,img etc
@@ -52,13 +49,13 @@
 <a name="day-3"></a>
 ### Day 3: October 17, 2018 
 
-**Today's Focus**: Basic Python:Dictionaries,fuction,center method,list,set,etc.
+**Today's Focus**: Basic Python:Dictionaries,function,center method,list,set,etc.
 
 
 **Details**:
 
  - second day of learning basic in python
- - more on list-(extending list,list in list),dictionaries-(value method,key method),function-(defination and calling a function,flexible no of argumrnt,default argument),set,tuples,center,strip.
+ - more on list-(extending list,list in list),dictionaries-(value method,key method),function-(definition and calling a function,flexible no of arguments,default argument),set,tuples,center,strip.
  
 
 **Link to work**: [GitHub](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
@@ -69,16 +66,17 @@
 
 ----------
 <a name="day-4"></a>
-### Day 4: October 16, 2018 
+### Day 4: October 18, 2018 
 
-**Today's Focus**: _TODO_
+**Today's Focus**:visual Design using CSS:box shadow property,@keyframes and animation property,z-index value etc.
 
 **Details**:
 
- - _TODO_
- - _TODO_
- - _TODO_
+ - Learn about basic tools used by designer to design attractive webpage
+ - Box shawdow property,use of z-index @keyframes and animation property(animation 
+   name,duration,itration-count,biezer curves,fill mode animation etc.),more about color(rgb value,linear-gradient,hsl(),complementry coolor) and much more intersting tools.
+ - Came to know about various intersting designing tool
 
-**Link to work**: [_TODO_]()
+**Link to work**: [_TODO_]((https://www.freecodecamp.org/tanu)
 
 [Table of Contents](#toc)
