@@ -6,7 +6,7 @@
 |:---:|:-----:|:---:|:-----:|
 
 |[Day 1](#day-1) **15/10/18**| HTML Basics: various tags like anchor form,img etc|[Day 2](#day-2) **16/10/18**| CSS Basics:linking css file,about classes ,id,various css element and much more.|
-|[Day 3](#day-3) **17/10/18**|Basic Python:Dictionaries,function,center method,list,set,etc. |[Day 4](#day-4) **18/10/18**|  visual Design using CSS:box shadow property,@keyframes and animation property,z-index value etc.|
+|[Day 3](#day-3) **17/10/18**|Basic Python:Dictionaries,function,center method,list,set,etc. |[Day 4](#day-4) **18/10/18**|  visual Design using CSS:box shadow property,@keyframes and animation property,z-index value etc.||[Day 5](#day-5) **19/10/18**| Applied Accessibility Challenges: alt attribute in img tag,audio and figure element,tabindex etc.|
 ### Day 1: October 15, 2018 
 
 **Today's Focus**: HTML Basics: Various tags like anchor form,img etc
@@ -80,3 +80,14 @@
 **Link to work**: [_TODO_]((https://www.freecodecamp.org/tanu)
 
 [Table of Contents](#toc)
+## Day 5: October 19, 2018 
+
+**Today's Focus**:Applied Accessibility Challenges: alt attribute in img tag,audio and figure element,tabindex etc
+
+ - Help to create a page that can interact with broad range of audience.
+ - Learned about alt attribute in image element,resolving color blindness issue using contrasting color,adding audio files,use of tabindex to specify order of keyboard focus,use of datetime attribute and much more.
+   
+
+
+**Link to work**: [here](https://www.freecodecamp.org/tanu)
+=======
