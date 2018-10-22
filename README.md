@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **15/10/18**| HTML Basics: various tags like anchor form,img etc|[Day 2](#day-2) **16/10/18**| CSS Basics:linking css file,about classes ,id,various css element and much more|[Day 3](#day-3) **17/10/18**|Basic Python:Dictionaries,function,center method,list,set,etc.|[Day 4](#day-4) **18/10/18**|  visual Design using CSS:box shadow property,@keyframes and animation property,z-index value etc.|[Day 5](#day-5) **19/10/18**| Applied Accessibility Challenges: alt attribute in img tag,audio and figure element,tabindex etc.|[Day 6](#day-6) **20/10/18**|Responsive web design and CSS Flexbox:About Media Query,display flex property,flex-direction property etc.|[Day 7](#day-7) **21/10/18**| CSS grid:adding rows and columns,changing size,creating gaps between rows and columns,creating grid within grid|
+|[Day 1](#day-1) **15/10/18**| HTML Basics: various tags like anchor form,img etc|[Day 2](#day-2) **16/10/18**| CSS Basics:linking css file,about classes ,id,various css element and much more|[Day 3](#day-3) **17/10/18**|Basic Python:Dictionaries,function,center method,list,set,etc.|[Day 4](#day-4) **18/10/18**|  visual Design using CSS:box shadow property,@keyframes and animation property,z-index value etc.|[Day 5](#day-5) **19/10/18**| Applied Accessibility Challenges: alt attribute in img tag,audio and figure element,tabindex etc.|[Day 6](#day-6) **20/10/18**|Responsive web design and CSS Flexbox:About Media Query,display flex property,flex-direction property etc.|[Day 7](#day-7) **21/10/18**| CSS grid:adding rows and columns,changing size,creating gaps between rows and columns,creating grid within grid|[Day-8](#day 8) **22/10/18**| python basics:lambda function,amp function,zip function etc.|
 
 
 -----------
@@ -117,6 +117,16 @@
  -Css grid property turn HTML element into grid container with rows and column.
  -adding rows and columns, chaning size of grid row and column,creating gaps between rows and column,divinding the gid into areas and setting property to each area align items in grid using justify-self and align-self.
 **Link to work**: [here](https://www.freecodecamp.org/tanu)
-=======
+
+
+[Table of Contents](#toc)
+<a name="day-6"></a>
+## Day 8: October 22, 2018 
+
+**Today's Focus**: python basics:lambda function,amp function,zip function etc.
+ - Day 3 of python basic.
+ - lambda function(anonymous function),zip function with unzipping technique also,map function,enumerate function,filter function(using lambda function).
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
+
 
 [Table of Contents](#toc)
