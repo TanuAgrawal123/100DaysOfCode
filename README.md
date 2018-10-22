@@ -4,7 +4,6 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-
 |[Day 1](#day-1) **15/10/18**| HTML Basics: various tags like anchor form,img etc|[Day 2](#day-2) **16/10/18**| CSS Basics:linking css file,about classes ,id,various css element and much more|[Day 3](#day-3) **17/10/18**|Basic Python:Dictionaries,function,center method,list,set,etc.|[Day 4](#day-4) **18/10/18**|  visual Design using CSS:box shadow property,@keyframes and animation property,z-index value etc.|[Day 5](#day-5) **19/10/18**| Applied Accessibility Challenges: alt attribute in img tag,audio and figure element,tabindex etc.|[Day 6](#day-6) **20/10/18**|Responsive web design and CSS Flexbox:About Media Query,display flex property,flex-direction property etc.|[Day 7](#day-7) **21/10/18**| CSS grid:adding rows and columns,changing size,creating gaps between rows and columns,creating grid within grid|
 
 
@@ -23,16 +22,16 @@
 
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu)
-=======
+
 
 [Table of Contents](#toc)
 
 
 ----------
 <a name="day-2"></a>
-<<<<<<< HEAD
+
 ### Day 2: October 16, 2018
-=======
+
 
 **Today's Focus**:CSS Basics:linking css file,about classes ,id,styling in various css element and much more.  |
 
@@ -43,7 +42,7 @@
  - Learned a lot about CSS.  
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu)
-=======
+
 
 
 [Table of Contents](#toc)
@@ -81,7 +80,7 @@
    name,duration,itration-count,biezer curves,fill mode animation etc.),more about color(rgb value,linear-gradient,hsl(),complementry coolor) and much more intersting tools.
  - Came to know about various intersting designing tool
 
-**Link to work**: [_TODO_]((https://www.freecodecamp.org/tanu)
+**Link to work**: [_TODO_](https://www.freecodecamp.org/tanu)
 
 [Table of Contents](#toc)
 <a name="day-5"></a>
@@ -95,7 +94,7 @@
 
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu)
-=======
+
 
 [Table of Contents](#toc)
 <a name="day-5"></a>
@@ -109,7 +108,6 @@
 
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu)
-=======
 
 [Table of Contents](#toc)
 <a name="day-6"></a>
