@@ -8,6 +8,8 @@
 |[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.|[Day 4](#day-4) **18/10/18**| visual Design using CSS:box shadow property,@keyframes and animation property,z-index value etc.|
 |[Day 5](#day-5) **19/10/18**| Applied Accessibility Challenges: alt attribute in img tag,audio and figure element,tabindex etc.|[Day 6](#day-6) **20/10/18**| Responsive web design and CSS Flexbox:About Media Query,display flex property,flex-direction property etc.|
 |[Day 7](#day-7) **21/10/18**| CSS grid:adding rows and columns,changing size,creating gaps between rows and columns,creating grid within grid|[Day-8](#day-8) **22/10/18**| python basics:lambda function,amp function,zip function etc.|
+|[Day 9](#day-9) **23/10/18**| Strings and Collections:Strings,raw strings,bytes,dictionaries etc.|[Day-10](#day-10) **24/10/18**| _TOD0_|
+
 
 
 -----------
@@ -102,7 +104,7 @@
 
 
 [Table of Contents](#toc)
-<a name="day-5"></a>
+<a name="day-6"></a>
 ### Day 6: October 20, 2018 
 
 **Today's Focus**:Responsive web design and CSS Flexbox:About Media Query,display flex property,flex-direction property etc.
@@ -117,7 +119,7 @@
 **Link to work**: [here](https://www.freecodecamp.org/tanu)
 
 [Table of Contents](#toc)
-<a name="day-6"></a>
+<a name="day-7"></a>
 ### Day 7: October 21, 2018 
 
 **Today's Focus**:CSS grid:adding rows and columns,changing size,creating gaps between rows and columns,creating grid within grid.  
@@ -132,12 +134,12 @@
 
 
 [Table of Contents](#toc)
-<a name="day-6"></a>
+<a name="day-8"></a>
 ## Day 8: October 22, 2018 
 
 **Today's Focus**: python basics:lambda function,amp function,zip function etc.
 
-**Details:
+**Details**:
 
 
  - Day 3 of python basic.
@@ -148,3 +150,22 @@
 
 
 [Table of Contents](#toc)
+<a name="day-9"></a>
+
+### Day 9: October 23, 2018 
+
+**Today's Focus**: Strings and Collections:
+
+**Details**:Strings,raw strings,bytes,dictionaries etc.
+
+ - Started learning about strings and collections.
+ - Learned about string(immutable),raw strings,bytes objects which are machine readable, about nan(not a number),dictionaries(mutable property),implementing dictionaries using loops,about urllib library and its use in web scraping,using escape sequence in python,bool function.
+ 
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
+
+
+[Table of Contents](#toc)
+
+
