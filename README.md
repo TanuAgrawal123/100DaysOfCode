@@ -36,7 +36,7 @@
 ### Day 2: October 16, 2018
 
 
-**Today's Focus**:CSS Basics:linking css file,about classes ,id,styling in various css element and much more.  |
+**Today's Focus**:CSS Basics:linking css file,about classes ,id,styling in various css element and much more.  
 
 **Details**:
 
@@ -83,13 +83,15 @@
    name,duration,itration-count,biezer curves,fill mode animation etc.),more about color(rgb value,linear-gradient,hsl(),complementry coolor) and much more intersting tools.
  - Came to know about various intersting designing tool
 
-**Link to work**: [_TODO_](https://www.freecodecamp.org/tanu)
+**Link to work**: [here](https://www.freecodecamp.org/tanu)
 
 [Table of Contents](#toc)
 <a name="day-5"></a>
-## Day 5: October 19, 2018 
+### Day 5: October 19, 2018 
 
-**Today's Focus**:Applied Accessibility Challenges: alt attribute in img tag,audio and figure element,tabindex etc
+**Today's Focus**:Applied Accessibility Challenges: alt attribute in img tag,audio and figure element,tabindex etc.
+
+**Details**:
 
  - Help to create a page that can interact with broad range of audience.
  - Learned about alt attribute in image element,resolving color blindness issue using contrasting color,adding audio files,use of tabindex to specify order of keyboard focus,use of datetime attribute and much more.
@@ -101,9 +103,11 @@
 
 [Table of Contents](#toc)
 <a name="day-5"></a>
-## Day 6: October 20, 2018 
+### Day 6: October 20, 2018 
 
 **Today's Focus**:Responsive web design and CSS Flexbox:About Media Query,display flex property,flex-direction property etc.
+
+**Details**:
 
  - Responsive Web Design is an approach to designing web content that responds to the 
    constraints of different devices.
@@ -114,11 +118,16 @@
 
 [Table of Contents](#toc)
 <a name="day-6"></a>
-## Day 7: October 21, 2018 
+### Day 7: October 21, 2018 
 
-**Today's Focus**:CSS grid:adding rows and columns,changing size,creating gaps between rows and columns,creating grid within grid
+**Today's Focus**:CSS grid:adding rows and columns,changing size,creating gaps between rows and columns,creating grid within grid.  
+
+**Details**:
+
  -Css grid property turn HTML element into grid container with rows and column.
  -adding rows and columns, chaning size of grid row and column,creating gaps between rows and column,divinding the gid into areas and setting property to each area align items in grid using justify-self and align-self.
+
+
 **Link to work**: [here](https://www.freecodecamp.org/tanu)
 
 
@@ -127,8 +136,14 @@
 ## Day 8: October 22, 2018 
 
 **Today's Focus**: python basics:lambda function,amp function,zip function etc.
+
+**Details:
+
+
  - Day 3 of python basic.
  - lambda function(anonymous function),zip function with unzipping technique also,map function,enumerate function,filter function(using lambda function).
+
+
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
 
 
