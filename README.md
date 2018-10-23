@@ -113,7 +113,8 @@
 
  - Responsive Web Design is an approach to designing web content that responds to the 
    constraints of different devices.
- - About media Query(visibility of content on different view port sizes),viewport unit ,display:flex,flex-direction property,justify-content property,align-item property,flex-shrink,flex-grow property,align-self property.
+ - About media Query(visibility of content on different view port sizes),viewport unit  
+  ,display:flex,flex-direction property,justify-content property,align-item property,flex-shrink,flex-grow property,align-self property.
 
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu)
@@ -126,8 +127,9 @@
 
 **Details**:
 
- -Css grid property turn HTML element into grid container with rows and column.
- -adding rows and columns, chaning size of grid row and column,creating gaps between rows and column,divinding the gid into areas and setting property to each area align items in grid using justify-self and align-self.
+ - Css grid property turn HTML element into grid container with rows and column.
+ - adding rows and columns, chaning size of grid row and column,creating gaps between rows  
+   and column,divinding the gid into areas and setting property to each area align items in grid using justify-self and align-self.
 
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu)
@@ -141,9 +143,8 @@
 
 **Details**:
 
-
- - Day 3 of python basic.
- - lambda function(anonymous function),zip function with unzipping technique also,map function,enumerate function,filter function(using lambda function).
+- Day 3 of python basic.
+- lambda function(anonymous function),zip function with unzipping technique also,map function,enumerate function,filter function(using lambda function).
 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
@@ -154,12 +155,14 @@
 
 ### Day 9: October 23, 2018 
 
-**Today's Focus**: Strings and Collections:
+**Today's Focus**: Strings and Collections:Strings,raw strings,bytes,dictionaries etc.
 
-**Details**:Strings,raw strings,bytes,dictionaries etc.
+
+**Details**:
 
  - Started learning about strings and collections.
- - Learned about string(immutable),raw strings,bytes objects which are machine readable, about nan(not a number),dictionaries(mutable property),implementing dictionaries using loops,about urllib library and its use in web scraping,using escape sequence in python,bool function.
+ - Learned about string(immutable),raw strings,bytes objects which are machine  
+  readable,import function(to import various libraries of python),math function about nan(not a number),inf,-inf,typecasting,dictionaries(mutable property),implementing dictionaries using loops,about urllib library and its use in web scraping,using escape sequence in python,bool function.
  
 
 
