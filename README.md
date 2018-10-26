@@ -192,9 +192,9 @@
 
 ### Day 11: October 25, 2018 
 
-**Today's Focus**:
+**Today's Focus**:Modularity and objects in python:use of __name__==__main__,argv function,documentation,id(),function arguments in detail.
 
-**Details**:Modularity and objects in python:use of __name__==__main__,argv function,documentation,id(),function arguments in detail.
+**Details**
 
  - Started learning about Modularity and Objects in python.
  - learned about __name__=='__main__' (its use),argv function defined in sys library(help to  
