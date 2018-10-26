@@ -9,6 +9,7 @@
 |[Day 5](#day-5) **19/10/18**| Applied Accessibility Challenges: alt attribute in img tag,audio and figure element,tabindex etc.|[Day 6](#day-6) **20/10/18**| Responsive web design and CSS Flexbox:About Media Query,display flex property,flex-direction property etc.|
 |[Day 7](#day-7) **21/10/18**| CSS grid:adding rows and columns,changing size,creating gaps between rows and columns,creating grid within grid|[Day-8](#day-8) **22/10/18**| python basics:lambda function,amp function,zip function etc.|
 |[Day 9](#day-9) **23/10/18**| Strings and Collections:Strings,raw strings,bytes,dictionaries etc.|[Day-10](#day-10) **24/10/18**| predefined function in python:Any() and all() function,chainmap,sorted function etc.|
+|[Day 11](#day-11) **25/10/18**| Modularity and objects in python:use of __name__==__main__,argv function,documentation,id(),function arguments in detail.|[Day 12](#day-12) **26/10/18**|_TODO_| 
 
 
 
@@ -187,6 +188,26 @@
 
 
 [Table of Contents](#toc)
+<a name="day-11"></a>
+
+### Day 11: October 25, 2018 
+
+**Today's Focus**:
+
+**Details**:Modularity and objects in python:use of __name__==__main__,argv function,documentation,id(),function arguments in detail.
+
+ - Started learning about Modularity and Objects in python.
+ - learned about __name__=='__main__' (its use),argv function defined in sys library(help to  
+   work with command line arguments),documnenting using docstring(use shebang and learn about the rules of documentation),id(return unique identifier for object and help in debugging),function arguments-default arguments its properties,using kwargv (order doesn't matter) and much more. 
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
+
+
+[Table of Contents](#toc)
+
+
+
 
 
 
