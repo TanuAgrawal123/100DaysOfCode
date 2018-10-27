@@ -240,7 +240,7 @@
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
 
-[for coding solution]()
+[for coding solution](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice/shubham_binary_string.c)
 
 [for question](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/subham-and-binary-strings/)
 
