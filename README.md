@@ -205,23 +205,7 @@
 
 
 [Table of Contents](#toc)
-<a name="day-10"></a>
 
-### Day 10: October 24, 2018 
-
-**Today's Focus**:predefined function in python:Any() and all() function,chainmap,sorted function etc.
-
-**Details**:
-
- - Started learning about predefined functions in python.
- - Learned about any() and all() function,sorted function(iterable,key,reverse),using lambda 
-   function in sorted function,list comphrension(help to reduce  code and make it user readable form),filtering in list comprehension,chainnig comparison operators(using many operators in a single expression),chain mapping,using collection library for chainmap function,reversed method,new_child method(adding new dic ).
-
-
-**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
-
-
-[Table of Contents](#toc)
 <a name="day-12"></a>
 
 ### Day 12: October 26, 2018 
