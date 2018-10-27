@@ -10,6 +10,7 @@
 |[Day 7](#day-7) **21/10/18**| CSS grid:adding rows and columns,changing size,creating gaps between rows and columns,creating grid within grid|[Day-8](#day-8) **22/10/18**| python basics:lambda function,amp function,zip function etc.|
 |[Day 9](#day-9) **23/10/18**| Strings and Collections:Strings,raw strings,bytes,dictionaries etc.|[Day-10](#day-10) **24/10/18**| predefined function in python:Any() and all() function,chainmap,sorted function etc.|
 |[Day 11](#day-11) **25/10/18**| Modularity and objects in python:use of __name__==__main__,argv function,documentation,id(),function arguments in detail.|[Day 12](#day-12) **26/10/18**| Objects and collections:ctime()function,scope of variable,more on tuples| 
+|[Day 13](#day-13) **27/10/18**| Collections in python:concatenation of string,join function,partition function enumerate,range function,more on list etc.|[Day 14](#day-14) **28/10/18**|_TODO_| 
 
 
 
@@ -216,8 +217,22 @@
 
  - Started learning about objects and collections in python.
  - learned about ctime function in time library,variable scope(global and local varaiable,how 
-   to modify flobal variable in a function ),type function(return type of object use), doc function,dir function(give attribute of module,function),tuples,empty tuple,use of tuple to return multiple value etc.
+   to modify global variable in a function ),type function(return type of object use), doc function,dir function(give attribute of module,function),tuples,empty tuple,use of tuple to return multiple value etc.
 
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
+
+
+[Table of Contents](#toc)
+<a name="day-13"></a>
+
+### Day 13: October 27, 2018 
+
+**Today's Focus**:Collections in python:concatenation of string,join function,partition function enumerate,range function,more on list etc.
+**Details**
+
+ - Started learning collections in python.
+ - learned about concatenation of string,join function,partition function in string(use of
+   underscore as dummy name),format(named arguments,use of predefined attributes),range function(in list),enumerate(gives index+value),enumerate in list,concept of object in list(i.e on assigning a new value to a list create a new object while on appending a value it doesn't create a new object),list in list.
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
 
 
