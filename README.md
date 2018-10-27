@@ -227,7 +227,10 @@
 
 ### Day 13: October 27, 2018 
 
-**Today's Focus**:Collections in python:concatenation of string,join function,partition function enumerate,range function,more on list etc.
+**Today's Focus**:
+ - Collections in python:concatenation of string,join function,partition function enumerate,range function,more on list etc.
+
+ - Coding Practice-Shubham and binary string(on bit manupulation)
 
 **Details**
 
@@ -237,6 +240,9 @@
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
 
+[for coding solution]()
+
+[for question](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/subham-and-binary-strings/)
 
 [Table of Contents](#toc)
 
