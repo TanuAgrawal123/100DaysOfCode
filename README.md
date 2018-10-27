@@ -231,8 +231,8 @@
 **Details**
 
  - Started learning about objects and collections in python.
- -learned about ctime function in time library,variable scope(global and local varaiable,how 
-  to modify flobal variable in a function ),type function(return type of object use), doc function,dir function(give attribute of module,function),tuples,empty tuple,use of tuple to return multiple value etc.
+ - learned about ctime function in time library,variable scope(global and local varaiable,how 
+   to modify flobal variable in a function ),type function(return type of object use), doc function,dir function(give attribute of module,function),tuples,empty tuple,use of tuple to return multiple value etc.
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
 
