@@ -9,7 +9,7 @@
 |[Day 5](#day-5) **19/10/18**| Applied Accessibility Challenges: alt attribute in img tag,audio and figure element,tabindex etc.|[Day 6](#day-6) **20/10/18**| Responsive web design and CSS Flexbox:About Media Query,display flex property,flex-direction property etc.|
 |[Day 7](#day-7) **21/10/18**| CSS grid:adding rows and columns,changing size,creating gaps between rows and columns,creating grid within grid|[Day-8](#day-8) **22/10/18**| python basics:lambda function,amp function,zip function etc.|
 |[Day 9](#day-9) **23/10/18**| Strings and Collections:Strings,raw strings,bytes,dictionaries etc.|[Day-10](#day-10) **24/10/18**| predefined function in python:Any() and all() function,chainmap,sorted function etc.|
-|[Day 11](#day-11) **25/10/18**| Modularity and objects in python:use of __name__==__main__,argv function,documentation,id(),function arguments in detail.|[Day 12](#day-12) **26/10/18**|_TODO_| 
+|[Day 11](#day-11) **25/10/18**| Modularity and objects in python:use of __name__==__main__,argv function,documentation,id(),function arguments in detail.|[Day 12](#day-12) **26/10/18**| Objects and collections:ctime()function,scope of variable,more on tuples| 
 
 
 
@@ -205,6 +205,40 @@
 
 
 [Table of Contents](#toc)
+<a name="day-10"></a>
+
+### Day 10: October 24, 2018 
+
+**Today's Focus**:predefined function in python:Any() and all() function,chainmap,sorted function etc.
+
+**Details**:
+
+ - Started learning about predefined functions in python.
+ - Learned about any() and all() function,sorted function(iterable,key,reverse),using lambda 
+   function in sorted function,list comphrension(help to reduce  code and make it user readable form),filtering in list comprehension,chainnig comparison operators(using many operators in a single expression),chain mapping,using collection library for chainmap function,reversed method,new_child method(adding new dic ).
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
+
+
+[Table of Contents](#toc)
+<a name="day-12"></a>
+
+### Day 12: October 26, 2018 
+
+**Today's Focus**:Objects and collections:ctime()function,scope of variable,more on tuples
+
+**Details**
+
+ - Started learning about objects and collections in python.
+ -learned about ctime function in time library,variable scope(global and local varaiable,how 
+  to modify flobal variable in a function ),type function(return type of object use), doc function,dir function(give attribute of module,function),tuples,empty tuple,use of tuple to return multiple value etc.
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
+
+
+[Table of Contents](#toc)
+
 
 
 
