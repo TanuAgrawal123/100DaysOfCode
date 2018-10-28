@@ -239,6 +239,7 @@
  - learned about concatenation of string,join function,partition function in string(use of
    underscore as dummy name),format(named arguments,use of predefined attributes),range function(in list),enumerate(gives index+value),enumerate in list,concept of object in list(i.e on assigning a new value to a list create a new object while on appending a value it doesn't create a new object),list in list.
 
+<<<<<<< HEAD
 **Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)  [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
 [Table of Contents](#toc)
@@ -255,6 +256,10 @@
    list,deepcopy fuction in copy library, reference counting concept and finding its value by getrefcount function in sys library.
  
 **Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)  [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
+=======
+**Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice) [Competitive Programming](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
+
+>>>>>>> fbde2d21f7fd0a3ac3de87e2c19105195086579f
 
 [Table of Contents](#toc)
 
