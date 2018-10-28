@@ -10,8 +10,8 @@
 |[Day 7](#day-7) **21/10/18**| CSS grid:adding rows and columns,changing size,creating gaps between rows and columns,creating grid within grid|[Day-8](#day-8) **22/10/18**| python basics:lambda function,amp function,zip function etc.|
 |[Day 9](#day-9) **23/10/18**| Strings and Collections:Strings,raw strings,bytes,dictionaries etc.|[Day-10](#day-10) **24/10/18**| predefined function in python:Any() and all() function,chainmap,sorted function etc.|
 |[Day 11](#day-11) **25/10/18**| Modularity and objects in python:use of __name__==__main__,argv function,documentation,id(),function arguments in detail.|[Day 12](#day-12) **26/10/18**| Objects and collections:ctime()function,scope of variable,more on tuples| 
-|[Day 13](#day-13) **27/10/18**| Collections in python:concatenation of string,join function,partition function enumerate,range function,more on list etc.|[Day 14](#day-14) **28/10/18**| More about Objects in python:pop and remove fuction in list,deepcopy function,reference  counting.|
- | 
+|[Day 13](#day-13) **27/10/18**| Collections in python:concatenation of string,join function,partition function enumerate,range function,more on list etc.|[Day 14](#day-14) **28/10/18**| More about Objects in python:pop and remove fuction in list, deepcopy function, reference  counting.|
+ 
 
 
 
@@ -165,7 +165,7 @@
 
  - Started learning about strings and collections.
  - Learned about string(immutable),raw strings,bytes objects which are machine  
-  readable,import function(to import various libraries of python),math function about nan(not a number),inf,-inf,typecasting,dictionaries(mutable property),implementing dictionaries using loops,about urllib library and its use in web scraping,using escape sequence in python,bool function.
+  readable,import function(to import various libraries of python),math function about nan(not a number), inf, -inf, typecasting, dictionaries(mutable property), implementing dictionaries using loops,about urllib library and its use in web scraping,using escape sequence in python, bool function.
  
 
 
@@ -183,7 +183,7 @@
 
  - Started learning about predefined functions in python.
  - Learned about any() and all() function,sorted function(iterable,key,reverse),using lambda 
-   function in sorted function,list comphrension(help to reduce  code and make it user readable form),filtering in list comprehension,chainnig comparison operators(using many operators in a single expression),chain mapping,using collection library for chainmap function,reversed method,new_child method(adding new dic ).
+   function in sorted function ,list comphrension(help to reduce  code and make it user readable form),filtering in list comprehension,chainnig comparison operators(using many operators in a single expression), chain mapping,using collection library for chainmap function,reversed method, new_child method(adding new dic ).
 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
@@ -217,8 +217,8 @@
 **Details**
 
  - Started learning about objects and collections in python.
- - learned about ctime function in time library,variable scope(global and local varaiable,how 
-   to modify global variable in a function ),type function(return type of object use), doc function,dir function(give attribute of module,function),tuples,empty tuple,use of tuple to return multiple value etc.
+ - learned about ctime function in time library, variable scope(global and local varaiable,how 
+   to modify global variable in a function ), type function(return type of object use), doc function,dir function(give attribute of module,function), tuples,empty tuple, use of tuple to return multiple value etc.
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
 
@@ -229,18 +229,18 @@
 ### Day 13: October 27, 2018 
 
 **Today's Focus**:
- - Collections in python:concatenation of string,join function,partition function enumerate,range function,more on list etc.
+ - Collections in python:concatenation of string, join function, partition function enumerate, range function,more on list etc.
 
  - Coding Practice-Shubham and binary string(on bit manupulation)
 
 **Details**
 
  - Started learning collections in python.
- - learned about concatenation of string,join function,partition function in string(use of
-   underscore as dummy name),format(named arguments,use of predefined attributes),range function(in list),enumerate(gives index+value),enumerate in list,concept of object in list(i.e on assigning a new value to a list create a new object while on appending a value it doesn't create a new object),list in list.
+ - learned about concatenation of string, join function,partition function in string(use of
+   underscore as dummy name), format(named arguments,use of predefined attributes), range function(in list),enumerate(gives index+value), enumerate in list, concept of object in list(i.e on assigning a new value to a list create a new object while on appending a value it doesn't create a new object), list in list.
 
 
-**Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)  [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
+**Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
 [Table of Contents](#toc)
 <a name="day-14"></a>
@@ -249,16 +249,18 @@
 
 **Today's Focus**:
 
- - More about Objects in python:pop and remove fuction in list,deepcopy function,reference  
+ - More about Objects in python:pop and remove fuction in list, deepcopy function, reference  
    counting.
 
+ - Coding practice-The castle gate(on bit manupulation)
+  
 **Details**
 
  - Started learning objects in python.
  - Learned about pop function(remove item in list using index) and remove function in 
-   list,deepcopy fuction in copy library, reference counting concept and finding its value by getrefcount function in sys library.
+   list, deepcopy fuction in copy library, reference counting concept and finding its value by getrefcount function in sys library.
  
-**Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)  [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
+**Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
 
 [Table of Contents](#toc)
