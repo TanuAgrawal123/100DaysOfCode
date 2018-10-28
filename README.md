@@ -65,7 +65,7 @@
 **Details**:
 
  - second day of learning basic in python
- - more on list-(extending list,list in list),dictionaries-(value method,key method),function-(definition and calling a function,flexible no of arguments,default argument),set,tuples,center,strip.
+ - more on list-(extending list, list in list), dictionaries-(value method,key method), function-(definition and calling a function, flexible no of arguments, default argument), set, tuples, center, strip.
  
 
 **Link to work**: [GitHub](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
