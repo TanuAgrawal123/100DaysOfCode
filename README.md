@@ -256,10 +256,7 @@
    list,deepcopy fuction in copy library, reference counting concept and finding its value by getrefcount function in sys library.
  
 **Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)  [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
-=======
-**Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice) [Competitive Programming](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
->>>>>>> fbde2d21f7fd0a3ac3de87e2c19105195086579f
 
 [Table of Contents](#toc)
 
