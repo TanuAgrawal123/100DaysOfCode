@@ -238,7 +238,7 @@
  - learned about concatenation of string,join function,partition function in string(use of
    underscore as dummy name),format(named arguments,use of predefined attributes),range function(in list),enumerate(gives index+value),enumerate in list,concept of object in list(i.e on assigning a new value to a list create a new object while on appending a value it doesn't create a new object),list in list.
 
-**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)[Competitive Programming](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
+**Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice) [Competitive Programming](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
 
 [Table of Contents](#toc)
