@@ -11,6 +11,7 @@
 |[Day 9](#day-9) **23/10/18**| Strings and Collections:Strings,raw strings,bytes,dictionaries etc.|[Day-10](#day-10) **24/10/18**| predefined function in python:Any() and all() function,chainmap,sorted function etc.|
 |[Day 11](#day-11) **25/10/18**| Modularity and objects in python:use of __name__==__main__,argv function,documentation,id(),function arguments in detail.|[Day 12](#day-12) **26/10/18**| Objects and collections:ctime()function,scope of variable,more on tuples| 
 |[Day 13](#day-13) **27/10/18**| Collections in python:concatenation of string,join function,partition function enumerate,range function,more on list etc.|[Day 14](#day-14) **28/10/18**| More about Objects in python:pop and remove fuction in list, deepcopy function, reference  counting.|
+ |[Day 15](#day-15) **29/10/18**| More on dictionaries and array in python: remove, pop,update, fromkeys, popitem methods in dictionaries and array and its various methods|[Day 16](#day-16) **30/10/18**| |
  
 
 
@@ -262,6 +263,22 @@
  
 **Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
+
+[Table of Contents](#toc)
+<a name="day-15"></a>
+
+### Day 15: October 30, 2018 
+
+**Today's Focus**:More on dictionaries and array in python: remove, pop,update, fromkeys, popitem methods in dictionaries and array and its various methods
+ 
+
+**Details**
+
+ - started learning dictionaries and arrays in python.
+ - Learned about pop function(remove item in dictionaries using index) and remove function in 
+   dictionaries, fromkeys method in dictionaries (delete last item and return its value), update fuction, creating an array in python, insert, remove, update, buffer_info function(return size+memory add),slicing in array,tolist function(return array as ordinary list without changing original one),tobytes function in python.
+ 
+**Link to work**: [Python Practice](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice) 
 
 [Table of Contents](#toc)
 
