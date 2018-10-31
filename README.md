@@ -12,9 +12,8 @@
 |[Day 11](#day-11) **25/10/18**| Modularity and objects in python:use of __name__==__main__,argv function,documentation,id(),function arguments in detail.|[Day 12](#day-12) **26/10/18**| Objects and collections:ctime()function,scope of variable,more on tuples| 
 |[Day 13](#day-13) **27/10/18**| Collections in python:concatenation of string,join function,partition function enumerate,range function,more on list etc.|[Day 14](#day-14) **28/10/18**| More about Objects in python:pop and remove fuction in list, deepcopy function, reference  counting.|
  |[Day 15](#day-15) **29/10/18**| More on dictionaries and array in python: remove, pop,update, fromkeys, popitem methods in dictionaries and array and its various methods|[Day 16](#day-16) **30/10/18**| More about Collections and Error Handling in python:More on list,dictionary,sets and error handling|
- |[Day 17](#day-17) **31/10/18**| iterables in python:list comprehension,set comprehension,dictionary comrehension iterable protocols,generator,batteries itertools.
-|[Day 18](#day-18) **1/11/18**| |
- 
+ |[Day 17](#day-17) **31/10/18**| iterables in python:list comprehension,set comprehension,dictionary comrehension iterable protocols,generator,batteries itertools.|[Day 18](#day-18) **1/11/18**| |
+
 
 <a name="day-1"></a>
 
