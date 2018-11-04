@@ -14,14 +14,14 @@
  |[Day 15](#day-15) **29/10/18**| More on dictionaries and array in python: remove, pop,update, fromkeys, popitem methods in dictionaries and array and its various methods|[Day 16](#day-16) **30/10/18**| More about Collections and Error Handling in python:More on list,dictionary,sets and error handling|
  |[Day 17](#day-17) **31/10/18**| iterables in python:list comprehension,set comprehension,dictionary comrehension iterable protocols,generator,batteries itertools.|[Day 18](#day-18) **1/11/18**| Baiscs of javascript:comment in javascript,declaration and itialisation of variable,case sensitivity property etc.|
  |[Day 19](#day-19) **2/01/18**| Basics in javascript:Array, function,assignment operator,boolean value if statement.|[Day 20](#day-20) **3/11/18**| Basics of Javascript:if
- else statement,switch statement boolean value in function,javascript objects,golf code problem.|
+else statement,switch statement boolean value in function,javascript objects,golf code problem.|
  |[Day 21](#day-21) **4/01/18**| Basics in javascript:objects, for  and while loop, random function, pardseint function, conditional operator.|[Day 22](#day-22) **5/11/18**| |
 
 <a name="day-1"></a>
 
 ### Day 1: October 15, 2018 
 
-**Today's Focus**: HTML Basics: Various tags like anchor form,img etc
+**Today's Focus**: HTML Basics: Various tags like anchor form,gimg etc
 
 **Details**:
 
