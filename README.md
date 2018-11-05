@@ -367,7 +367,8 @@
 
  -Introduction to ES6 version of javascript.
  - Let keyword( does not allow multiple time decleration of same variable name),use of "use 
-  strict"(catches mistakes), scope of let keyword(comparing with var keyword), const keyword(Read only variable), Object.freeze(prevent data mutation), arrow function(anonymous), use of arrow function (using map,filter), default arguments, rest operator(any no arguments), spread operator(expanding objects) all using arrow function. 
+  strict"(catches mistakes), scope of let keyword(comparing with var keyword), const keyword(Read only variable), Object.freeze(prevent data mutation), arrow function(anonymous), use of arrow function (using map,filter), default arguments, rest operator(any no arguments), spread operator(expanding objects) all using arrow function.
+   
 **Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
 
