@@ -14,7 +14,7 @@
  |[Day 15](#day-15) **29/10/18**| More on dictionaries and array in python: remove, pop,update, fromkeys, popitem methods in dictionaries and array and its various methods|[Day 16](#day-16) **30/10/18**| More about Collections and Error Handling in python:More on list,dictionary,sets and error handling|
  |[Day 17](#day-17) **31/10/18**| iterables in python:list comprehension,set comprehension,dictionary comrehension iterable protocols,generator,batteries itertools.|[Day 18](#day-18) **1/11/18**| Baiscs of javascript:comment in javascript,declaration and itialisation of variable,case sensitivity property etc.|
  |[Day 19](#day-19) **2/01/18**| Basics in javascript:Array, function,assignment operator,boolean value if statement.|[Day 20](#day-20) **3/11/18**| Basics of javascript:if else statement,switch statement boolean value in function,javascript objects,golf code problem.|
- |[Day 21](#day-21) **4/01/18**| Basics in javascript:objects, for  and while loop, random function, pardseint function, conditional operator.|[Day 22](#day-22) **5/11/18**| |
+ |[Day 21](#day-21) **4/01/18**| Basics in javascript:objects, for  and while loop, random function, pardseint function, conditional operator.|[Day 22](#day-22) **5/11/18**| Introduction to ES6 Challenges:let keyword, const keyword,freeze keyword, arrow function, default parameter, rest operator, spread operator.|
 
 <a name="day-1"></a>
 
@@ -353,6 +353,23 @@
  - objects in javascript(nested object decleration and accesing them using dot and bracket notation), while loop, for loop do while loop, nested for loop,random function(generate fraction number using Math.random(),generating whole number using floor function, generation number within a range), parseint function(with radix),conditional operator, multiple conditional operator.
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu)
+
+[Table of Contents](#toc)
+<a name="day-22"></a>
+### Day 22: November 5, 2018 
+
+**Today's Focus**:
+
+ - Introduction to ES6 Challenges:let keyword, const keyword,freeze keyword, arrow function, default parameter, rest operator, spread operator.
+ - Coding practice-help your roomate(on bit manupulation)
+
+**Details**:
+
+ -Introduction to ES6 version of javascript.
+ - Let keyword( does not allow multiple time decleration of same variable name),use of "use 
+  strict"(catches mistakes), scope of let keyword(comparing with var keyword), const keyword(Read only variable), Object.freeze(prevent data mutation), arrow function(anonymous), use of arrow function (using map,filter), default arguments, rest operator(any no arguments), spread operator(expanding objects) all using arrow function. 
+**Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
+
 
 
 
