@@ -371,6 +371,23 @@
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
+[Table of Contents](#toc)
+<a name="day-23"></a>
+### Day 23: November 6, 2018 
+
+**Today's Focus**:
+
+ - Introduction to ES6 Challenges and Regular Expressions:template string,
+ - Coding practice-help your roomate(on bit manupulation)
+
+**Details**:
+
+ - Introduction to ES6 version of javascript.
+ - template string{by enclosing string in `` and using ${variable} for concatenation}
+**Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
+
+
+
 
 
 
