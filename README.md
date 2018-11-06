@@ -15,9 +15,13 @@
  |[Day 17](#day-17) **31/10/18**| iterables in python:list comprehension,set comprehension,dictionary comrehension iterable protocols,generator,batteries itertools.|[Day 18](#day-18) **1/11/18**| Baiscs of javascript:comment in javascript,declaration and itialisation of variable,case sensitivity property etc.|
  |[Day 19](#day-19) **2/01/18**| Basics in javascript:Array, function,assignment operator,boolean value if statement.|[Day 20](#day-20) **3/11/18**| Basics of javascript:if else statement,switch statement boolean value in function,javascript objects,golf code problem.|
  |[Day 21](#day-21) **4/01/18**| Basics in javascript:objects, for  and while loop, random function, pardseint function, conditional operator.|[Day 22](#day-22) **5/11/18**| Introduction to ES6 Challenges:let keyword, const keyword,freeze keyword, arrow function, default parameter, rest operator, spread operator.|
+ |[Day 23](#day-23) **6/01/18**| Introduction to ES6 challenges and Regular expression:template string getter and setter function,import and export method,test and match method in regular expression.|[Day 24](#day-24) **7/11/18**| |
+ 
+
 
 <a name="day-1"></a>
 
+ 
 ### Day 1: October 15, 2018 
 
 **Today's Focus**: HTML Basics: Various tags like anchor form,gimg etc
@@ -377,14 +381,22 @@
 
 **Today's Focus**:
 
- - Introduction to ES6 Challenges and Regular Expressions:template string,
- - Coding practice-help your roomate(on bit manupulation)
+ - Introduction to ES6 Challenges and Regular Expressions:template string,getter and setter function,import and export method,test and match method in regular expression.
+ - Coding practice-sitting arrangement(on input output)
 
 **Details**:
 
  - Introduction to ES6 version of javascript.
- - template string{by enclosing string in `` and using ${variable} for concatenation}
+ - template string(by enclosing string in backticks and using ${variable} for concatenation),
+   defining function in object in concise way,defining constructor function using class syntax(here class syntax is not related to opps concept), getter and setter function, import method, export method(to reuse block of code in another module),import* (to import all the content in current file), export default.
+ - Regular expression(use to search, match,replace text in string):test method(to find a word 
+   in a string and return true or false), use of test method to search for multiple words using | or OR operator,ignorecase while serching using i,match method(to return searched word),wildcard period. 
+
+
 **Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
+
+
+
 
 
 
