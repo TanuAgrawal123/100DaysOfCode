@@ -403,10 +403,10 @@
 
 **Today's Focus**:
 
- - Regular Expression in Javascript:
+ - Regular Expression in Javascript:matching range of letters and alphabhet, whitespaces, lazy matching,negated character set, replace and trim method.
  - Coding practice-Raja and odd frequency number(on bit manupulation)
 
-**Details**:Regular Expression in javascript:matching range of letters and alphabhet, whitespaces, lazy matching,negated character set, replace and trim method.
+**Details**:
 
  - Introduction to Regular Expression of javascript.
  - Matching single character with multiple possibilities, matching range of letter and digits in alphabhet(eg./[a-z]/),negated character set,(character which should not included),+n(for 1 more n), * n(for 0 or more), lazy matching(using ?),^n(n at beginning), $n(n at end), \w(all character with no),\W(negation of \w), \s(white spaces),\d(only digit), positive and negative lookahead(?=.... or?!....),capture groups(repeated substrings), replace method, trim method.(.trim)
