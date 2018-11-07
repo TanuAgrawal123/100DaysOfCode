@@ -15,7 +15,8 @@
  |[Day 17](#day-17) **31/10/18**| iterables in python:list comprehension,set comprehension,dictionary comrehension iterable protocols,generator,batteries itertools.|[Day 18](#day-18) **1/11/18**| Baiscs of javascript:comment in javascript,declaration and itialisation of variable,case sensitivity property etc.|
  |[Day 19](#day-19) **2/01/18**| Basics in javascript:Array, function,assignment operator,boolean value if statement.|[Day 20](#day-20) **3/11/18**| Basics of javascript:if else statement,switch statement boolean value in function,javascript objects,golf code problem.|
  |[Day 21](#day-21) **4/01/18**| Basics in javascript:objects, for  and while loop, random function, pardseint function, conditional operator.|[Day 22](#day-22) **5/11/18**| Introduction to ES6 Challenges:let keyword, const keyword,freeze keyword, arrow function, default parameter, rest operator, spread operator.|
- |[Day 23](#day-23) **6/01/18**| Introduction to ES6 challenges and Regular expression:template string getter and setter function,import and export method,test and match method in regular expression.|[Day 24](#day-24) **7/11/18**| |
+ |[Day 23](#day-23) **6/01/18**| Introduction to ES6 challenges and Regular expression:template string getter and setter function,import and export method,test and match method in regular expression.|[Day 24](#day-24) **7/11/18**| Regular Expression in javascript:matching range of letters and alphabhet, whitespaces, lazy matching,negated character set, replace and trim method.|
+
  
 
 
@@ -396,7 +397,21 @@
 **Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
 
+[Table of Contents](#toc)
+<a name="day-24"></a>
+### Day 24: November 7, 2018 
 
+**Today's Focus**:
+
+ - Regular Expression in Javascript:
+ - Coding practice-Raja and odd frequency number(on bit manupulation)
+
+**Details**:Regular Expression in javascript:matching range of letters and alphabhet, whitespaces, lazy matching,negated character set, replace and trim method.
+
+ - Introduction to Regular Expression of javascript.
+ - Matching single character with multiple possibilities, matching range of letter and digits in alphabhet(eg./[a-z]/),negated character set,(character which should not included),+n(for 1 more n), * n(for 0 or more), lazy matching(using ?),^n(n at beginning), $n(n at end), \w(all character with no),\W(negation of \w), \s(white spaces),\d(only digit), positive and negative lookahead(?=.... or?!....),capture groups(repeated substrings), replace method, trim method.(.trim)
+
+**Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
 
 
