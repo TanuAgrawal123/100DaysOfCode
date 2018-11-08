@@ -16,6 +16,7 @@
  |[Day 19](#day-19) **2/01/18**| Basics in javascript:Array, function,assignment operator,boolean value if statement.|[Day 20](#day-20) **3/11/18**| Basics of javascript:if else statement,switch statement boolean value in function,javascript objects,golf code problem.|
  |[Day 21](#day-21) **4/01/18**| Basics in javascript:objects, for  and while loop, random function, pardseint function, conditional operator.|[Day 22](#day-22) **5/11/18**| Introduction to ES6 Challenges:let keyword, const keyword,freeze keyword, arrow function, default parameter, rest operator, spread operator.|
  |[Day 23](#day-23) **6/01/18**| Introduction to ES6 challenges and Regular expression:template string getter and setter function,import and export method,test and match method in regular expression.|[Day 24](#day-24) **7/11/18**| Regular Expression in javascript:matching range of letters and alphabhet, whitespaces, lazy matching,negated character set, replace and trim method.|
+|[Day 25](#day-25) **8/01/18**| Debugging and basic data structure in javascript:infinite loop error, paraenthesis error, argument sequence error etc.array(push, pop, unshift, shift, splice).|[Day 26](#day-26) **9/11/18**| |
 
  
 
@@ -410,6 +411,25 @@
 
  - Introduction to Regular Expression of javascript.
  - Matching single character with multiple possibilities, matching range of letter and digits in alphabhet(eg./[a-z]/),negated character set,(character which should not included),+n(for 1 more n), * n(for 0 or more), lazy matching(using ?),^n(n at beginning), $n(n at end), \w(all character with no),\W(negation of \w), \s(white spaces),\d(only digit), positive and negative lookahead(?=.... or?!....),capture groups(repeated substrings), replace method, trim method.(.trim)
+
+**Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
+
+[Table of Contents](#toc)
+<a name="day-25"></a>
+### Day 25: November 8, 2018 
+
+**Today's Focus**:
+
+ - Debugging and basic data structure in javascript:infinite loop error, paraenthesis error, argument sequence error etc.array(push, pop, unshift,shift,splice).
+ - Coding practice-Raja and odd frequency number(on bit manupulation)
+
+**Details**:
+
+ - Method to debug our code(it is a valuble tool for programmer.
+ - Use of console and typeof in debugging,catch unclosed (parenthesis, bracket),catch mixed 
+  usage of single and double quotes(by using escape sequence), preventing infinite loop and invalid termination condition, arguments passed in wrong order.
+ - Array(single and multidimension), push and unshift(to add element), pop and shift(to
+  remove element), splice(to remove elements from a specific location in a consecutive order and replacing them).  
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
