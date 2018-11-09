@@ -16,7 +16,7 @@
  |[Day 19](#day-19) **2/01/18**| Basics in javascript:Array, function,assignment operator,boolean value if statement.|[Day 20](#day-20) **3/11/18**| Basics of javascript:if else statement,switch statement boolean value in function,javascript objects,golf code problem.|
  |[Day 21](#day-21) **4/01/18**| Basics in javascript:objects, for  and while loop, random function, pardseint function, conditional operator.|[Day 22](#day-22) **5/11/18**| Introduction to ES6 Challenges:let keyword, const keyword,freeze keyword, arrow function, default parameter, rest operator, spread operator.|
  |[Day 23](#day-23) **6/01/18**| Introduction to ES6 challenges and Regular expression:template string getter and setter function,import and export method,test and match method in regular expression.|[Day 24](#day-24) **7/11/18**| Regular Expression in javascript:matching range of letters and alphabhet, whitespaces, lazy matching,negated character set, replace and trim method.|
-|[Day 25](#day-25) **8/01/18**| Debugging and basic data structure in javascript:infinite loop error, paraenthesis error, argument sequence error etc.array(push, pop, unshift, shift, splice).|[Day 26](#day-26) **9/11/18**| |
+|[Day 25](#day-25) **8/01/18**| Debugging and basic data structure in javascript:infinite loop error, paraenthesis error, argument sequence error etc.array(push, pop, unshift, shift, splice).|[Day 26](#day-26) **9/11/18**| Basic data structure challenge and basic algorithm scripting in javascript.|
 
  
 
@@ -433,6 +433,24 @@
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
+
+[Table of Contents](#toc)
+<a name="day-26"></a>
+### Day 26: November 9, 2018 
+
+**Today's Focus**:
+
+ - Basic data structure challenge and basic algorithm scripting in javascript.
+ - Coding practice-R-r-riddikulus!once again(on one dimensional array)
+
+**Details**:
+
+ - Use of for loop in array, creating complex multidimensional arrays , adding key value pair
+   in objects, using bracket notation to access property name in object, use of hasOwnProperty() method (to check a specific property in an object), use of delete method to delete a property, use of Object.keys() method(to generate an array containing keys).
+ - olving various problem like reverse a string problem, factorial problem, confirm the 
+    ending problem, repeat a string problem etc.
+
+**Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
 
 
