@@ -17,15 +17,11 @@
  |[Day 21](#day-21) **4/01/18**| Basics in javascript:objects, for  and while loop, random function, pardseint function, conditional operator.|[Day 22](#day-22) **5/11/18**| Introduction to ES6 Challenges:let keyword, const keyword,freeze keyword, arrow function, default parameter, rest operator, spread operator.|
  |[Day 23](#day-23) **6/01/18**| Introduction to ES6 challenges and Regular expression:template string getter and setter function,import and export method,test and match method in regular expression.|[Day 24](#day-24) **7/11/18**| Regular Expression in javascript:matching range of letters and alphabhet, whitespaces, lazy matching,negated character set, replace and trim method.|
 |[Day 25](#day-25) **8/01/18**| Debugging and basic data structure in javascript:infinite loop error, paraenthesis error, argument sequence error etc.array(push, pop, unshift, shift, splice).|[Day 26](#day-26) **9/11/18**| Basic data structure challenge and basic algorithm scripting in javascript.|
-|[Day 27](#day-27) **10/01/18**| Basic algorithm scripting in javascript and introduction to object oriented programming challenges in javascript.|[Day 28](#day-28) **11/11/18**| |
- 
-
+|[Day 27](#day-27) **10/01/18**| Basic algorithm scripting in javascript and introduction to object oriented programming challenges in javascript.|[Day 28](#day-28) **11/11/18**| introduction to object oriented programming challenges in javascript: Constructors, isprototypeOf method, inheritance cooncept(subtype, supertype).|
 
 <a name="day-1"></a>
 
- Basic algorithm scripting in javascript and introduction to object oriented programming challenges in javascript.
-
-
+ 
 ### Day 1: October 15, 2018 
 
 **Today's Focus**: HTML Basics: Various tags like anchor form,gimg etc
@@ -474,6 +470,20 @@
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
+Table of Contents](#toc)
+<a name="day-28"></a>
+### Day 28: November 11, 2018 
+
+**Today's Focus**:
+
+ -  introduction to object oriented programming challenges in javascript- Constructors,isprototypeOf method, inheritance cooncept(subtype, supertype).
+ 
+**Details**:
+
+ - constructor property (check for  find out what kind of object it is), Changing the Prototype to a New Object,defining constructor property whenever a prototype is manually set to a new object(otherwise prototype property will be erased), isPrototypeOf method(to show object inherits its pototype from which constructor function ),prototype chain ,inheritance cocept(Don't Repeat Yourself), inheriting behaviour from supertype, setting prototype of subtype to an instance of supertype.
+
+
+**Link to work**: [here](https://www.freecodecamp.org/tanu) 
 
 
 
