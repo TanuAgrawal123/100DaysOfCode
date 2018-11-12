@@ -497,9 +497,9 @@ Table of Contents](#toc)
 **Details**:
 
  - Speed Problem.
-  -Snackdown Contest Problem.
+ - Snackdown Contest Problem.
  - Memorise Me problem.
- - 
+ 
 
 
 **Link to work**: [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice) 
