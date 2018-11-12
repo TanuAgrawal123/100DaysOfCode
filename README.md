@@ -18,6 +18,7 @@
  |[Day 23](#day-23) **6/01/18**| Introduction to ES6 challenges and Regular expression:template string getter and setter function,import and export method,test and match method in regular expression.|[Day 24](#day-24) **7/11/18**| Regular Expression in javascript:matching range of letters and alphabhet, whitespaces, lazy matching,negated character set, replace and trim method.|
 |[Day 25](#day-25) **8/01/18**| Debugging and basic data structure in javascript:infinite loop error, paraenthesis error, argument sequence error etc.array(push, pop, unshift, shift, splice).|[Day 26](#day-26) **9/11/18**| Basic data structure challenge and basic algorithm scripting in javascript.|
 |[Day 27](#day-27) **10/01/18**| Basic algorithm scripting in javascript and introduction to object oriented programming challenges in javascript.|[Day 28](#day-28) **11/11/18**| introduction to object oriented programming challenges in javascript: Constructors, isprototypeOf method, inheritance cooncept(subtype, supertype).|
+|[Day 27](#day-29) **12/01/18**| |[Day 28](#day-30) **13/11/18**| |
 
 <a name="day-1"></a>
 
