@@ -471,7 +471,7 @@
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu) , [Competitive Coding](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/hackerearth_coding_practice)
 
-Table of Contents](#toc)
+[Table of Contents](#toc)
 <a name="day-28"></a>
 ### Day 28: November 11, 2018 
 
@@ -486,7 +486,7 @@ Table of Contents](#toc)
 
 **Link to work**: [here](https://www.freecodecamp.org/tanu) 
 
-Table of Contents](#toc)
+[Table of Contents](#toc)
 <a name="day-29"></a>
 ### Day 29: November 12, 2018 
 
