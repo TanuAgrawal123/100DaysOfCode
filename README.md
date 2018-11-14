@@ -19,7 +19,7 @@
 |[Day 25](#day-25) **8/01/18**| Debugging and basic data structure in javascript:infinite loop error, paraenthesis error, argument sequence error etc.array(push, pop, unshift, shift, splice).|[Day 26](#day-26) **9/11/18**| Basic data structure challenge and basic algorithm scripting in javascript.|
 |[Day 27](#day-27) **10/01/18**| Basic algorithm scripting in javascript and introduction to object oriented programming challenges in javascript.|[Day 28](#day-28) **11/11/18**| introduction to object oriented programming challenges in javascript: Constructors, isprototypeOf method, inheritance cooncept(subtype, supertype).|
 |[Day 29](#day-29) **12/01/18**| Solving 3 problems on Array of Hackerearth competitive coding .|[Day 30](#day-30) **13/11/18**|started django framework |
-|[Day 31](#day-31) **14/01/18**| File Handling and regular expression in python|[Day 30](#day-32) **15/11/18**| |
+|[Day 31](#day-31) **14/01/18**| File Handling and regular expression in python|[Day 32](#day-32) **15/11/18**| |
 
 <a name="day-1"></a>
 
@@ -488,7 +488,7 @@
 **Link to work**: [here](https://www.freecodecamp.org/tanu) 
 
 [Table of Contents](#toc)
-<a name="day-29"></a>
+<a name="day-30"></a>
 ### Day 29: November 12, 2018 
 
 **Today's Focus**:
@@ -524,7 +524,7 @@
 
 
 [Table of Contents](#toc)
-<a name="day-29"></a>
+<a name="day-31"></a>
 ### Day 31: November 14, 2018 
 
 **Today's Focus**:
@@ -538,7 +538,7 @@
  - regular expression: re library, compile function(compile REs into objects and then perform
    matches with them.), raw text, finditerfunction(returns an iterator over all non-overlapping matches for the RE pattern),meta character(need to be escaped), regex:'\w'(word character) '\s' whitespace'\d'(digit),'^'(beginning of string),'$'(end of string) etc.
 
-**Link to work**:[here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
 
 
 
