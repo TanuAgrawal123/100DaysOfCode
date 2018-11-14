@@ -536,7 +536,7 @@
  - open function, close function various modes(r,w,r+,a) and their properties , context 
    manager(automatically close the file), read(), write(), tell(), seek() function, readline function(read a single line), copying data of one file to another fileano, applying all these function on picture file(like png) i.e other than binary file by switching to binary file. 
  - regular expression: re library, compile function(compile REs into objects and then perform
-   matches with them.), raw text, finditerfunction(returns an iterator over all non-overlapping matches for the RE pattern),meta character(need to be escaped), regex:'\w'(word character) '\s' whitespace'\d'(digit),'^'(beginning of string),'$'(end of string) etc.
+   matches with them.), raw text, finditerfunction(returns an iterator over all non-overlapping matches for the RE pattern),meta character(need to be escaped), regex:'\w'(word character) , '\s' whitespace, '\d'(digit), '^'(beginning of string), '$'(end of string) etc.
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
 
