@@ -553,11 +553,14 @@
 
 **Details**:
 
- - Regular expression:matching a particular range, quantifiers:{n}(match n exact no), {n,m}(min and max range), '?'( if0 or 1 time given character is present), '+'(one or more character is present), asterik:(0 0r more times).carrot sign([^])(match everything leaving the given character set.
+ - Regular expression:matching a particular range, quantifiers:{n}(match n exact no), 
+  {n,m}(min and max range), '?'( if0 or 1 time given character is present), '+'(one or more character is present), asterik:(0 0r more times).carrot sign([^])(match everything leaving the given character set.
 
- - OS module(provides functions for interacting with the OS):getcwd(return current working directory), listdir(list files and folder), makedirs(make directory at top and inner level also), removedirs(remove directory), stat(show stats for a file or folder), walk(generator that yiels three set of tupples reprexenting directory tree).
+ - OS module(provides functions for interacting with the OS):getcwd(return current working 
+  directory), listdir(list files and folder), makedirs(make directory at top and inner level also), removedirs(remove directory), stat(show stats for a file or folder), walk(generator that yiels three set of tupples reprexenting directory tree).
 
- - closures and decorators:closures(inner_function remembers values in enclosing scopes even if outer_function stop executing), decorators( allow us to wrap another function in order to extend the behavior of wrapped function, without permanently modifying it.),actual syntax of decorator(@decoratorfunction_name), using same syntax to different keywords using (astrik args and kwargs property).
+ - closures and decorators:closures(inner_function remembers values in enclosing scopes even
+  if outer_function stop executing), decorators( allow us to wrap another function in order to extend the behavior of wrapped function, without permanently modifying it.),actual syntax of decorator(@decoratorfunction_name), using same syntax to different keywords using (astrik args and kwargs property).
 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
