@@ -19,7 +19,7 @@
 |[Day 25](#day-25) **8/01/18**| Debugging and basic data structure in javascript:infinite loop error, paraenthesis error, argument sequence error etc.array(push, pop, unshift, shift, splice).|[Day 26](#day-26) **9/11/18**| Basic data structure challenge and basic algorithm scripting in javascript.|
 |[Day 27](#day-27) **10/01/18**| Basic algorithm scripting in javascript and introduction to object oriented programming challenges in javascript.|[Day 28](#day-28) **11/11/18**| introduction to object oriented programming challenges in javascript: Constructors, isprototypeOf method, inheritance cooncept(subtype, supertype).|
 |[Day 29](#day-29) **12/01/18**| Solving 3 problems on Array of Hackerearth competitive coding .|[Day 30](#day-30) **13/11/18**|started django framework |
-|[Day 31](#day-31) **14/01/18**| File Handling and regular expression in python|[Day 32](#day-32) **15/11/18**| |
+|[Day 31](#day-31) **14/01/18**| File Handling and regular expression in python|[Day 32](#day-32) **15/11/18**| regular expression, closures and decorators and os module|
 
 <a name="day-1"></a>
 
@@ -539,6 +539,30 @@
    matches with them.), raw text, finditerfunction(returns an iterator over all non-overlapping matches for the RE pattern),meta character(need to be escaped), regex:'\w'(word character) , '\s' whitespace, '\d'(digit), '^'(beginning of string), '$'(end of string) etc.
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
+
+
+[Table of Contents](#toc)
+<a name="day-32"></a>
+### Day 32: November 15, 2018 
+
+**Today's Focus**:
+ - regular expression in python.
+ - OS Module in python.
+ - closures and decorators in python.
+
+
+**Details**:
+
+ - Regular expression:matching a particular range, quantifiers:{n}(match n exact no), {n,m}(min and max range), '?'( if0 or 1 time given character is present), '+'(one or more character is present), asterik:(0 0r more times).carrot sign([^])(match everything leaving the given character set.
+
+ - OS module(provides functions for interacting with the OS):getcwd(return current working directory), listdir(list files and folder), makedirs(make directory at top and inner level also), removedirs(remove directory), stat(show stats for a file or folder), walk(generator that yiels three set of tupples reprexenting directory tree).
+
+ - closures and decorators:closures(inner_function remembers values in enclosing scopes even if outer_function stop executing), decorators( allow us to wrap another function in order to extend the behavior of wrapped function, without permanently modifying it.),actual syntax of decorator(@decoratorfunction_name), using same syntax to different keywords using (astrik args and kwargs property).
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
+
+
 
 
 
