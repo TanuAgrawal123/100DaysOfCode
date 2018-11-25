@@ -48,7 +48,6 @@
 [Table of Contents](#toc)
 
 
-----------
 <a name="day-2"></a>
 
 ### Day 2: October 16, 2018
@@ -69,7 +68,7 @@
 [Table of Contents](#toc)
 
 
-----------
+
 <a name="day-3"></a>
 ### Day 3: October 17, 2018 
 
@@ -88,7 +87,6 @@
 
 
 
-----------
 <a name="day-4"></a>
 ### Day 4: October 18, 2018 
 
