@@ -20,7 +20,13 @@
 |[Day 27](#day-27) **10/01/18**| Basic algorithm scripting in javascript and introduction to object oriented programming challenges in javascript.|[Day 28](#day-28) **11/11/18**| introduction to object oriented programming challenges in javascript: Constructors, isprototypeOf method, inheritance cooncept(subtype, supertype).|
 |[Day 29](#day-29) **12/01/18**| Solving 3 problems on Array of Hackerearth competitive coding .|[Day 30](#day-30) **13/11/18**|started django framework |
 |[Day 31](#day-31) **14/01/18**| File Handling and regular expression in python|[Day 32](#day-32) **15/11/18**| regular expression, closures and decorators and os module|
-|[Day 33](#day-33) **16/01/18**| Object Oriented concepts in python:Classes-defining a class, regular method, static method, classmethod.|[Day 34](#day-34) **17/11/18**| |
+|[Day 33](#day-33) **16/01/18**| Object Oriented concepts in python:Classes-defining a class, instance of class|[Day 34](#day-34) **17/11/18**| Object Oriented concepts in python:Regular methods class methods static methods.|
+|[Day 35](#day-35) **18/01/18**| Worked on blog app|[Day 36](#day-36) **19/11/18**|Worked on blog app|
+|[Day 37](#day-37) **20/01/18**| Competitive coding on hackerearth|[Day 38](#day-38) **21/11/18**| Worked on blog app|
+|[Day 39](#day-39) **22/01/18**| Worked on blog app|[Day 40](#day-40) **23/11/18**| started working on poll app|
+[Day 41](#day-41) **24/01/18**| Worked on blog app|[Day 42](#day-42) **25/11/18**| |
+
+
 
 <a name="day-1"></a>
 
@@ -571,14 +577,128 @@
 ### Day 33: November 16, 2018 
 
 **Today's Focus**:
- - Object Oriented concepts in python:Classes-defining a class, regular method, static method, classmethod.
+ - Object Oriented concepts in python:Classes-defining a class,instance of class 
 
 **Details**:
 
- - Classes concept in python:defining a class,instance of class, class variable and class method, excessing the class method,variable using objects and using class name itself. regular methods(take self(instance of class) automatically as parameter), classmethod( take cls(class) autimatically as parameter) using decorators, static method(take no parameter automatically, a normal method).   
+ - Classes concept in python:defining a class,instance of class, class variable and class method, excessing the class method,variable using objects and using class name itself.   
 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
+
+
+[Table of Contents](#toc)
+<a name="day-34"></a>
+### Day 34: November 17, 2018 
+
+**Today's Focus**:
+ - Object Oriented concepts in python:Regular methods class methods static methods.
+
+**Details**:
+
+ -CLass concept in python :regular methods(take self(instance of class) automatically as parameter), classmethod( take cls(class) autimatically as parameter) using decorators, static method(take no parameter automatically, a normal method).   
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/PythonPractice)
+
+[Table of Contents](#toc)
+<a name="day-35"></a>
+### Day 35: November 18, 2018 
+
+**Today's Focus**:
+ -Worked on blog app using django framework
+
+**Details**:
+
+ - Blog app using Django framework: desiging a site that let public to 
+  views blogs.
+ - Design model, view and template structure to design a blog app (in
+  order to learn django framework) 
+
+**Link to work**:[here](https://github.com/TanuAgrawal123/django-framework)
+
+[Table of Contents](#toc)
+<a name="day-36"></a>
+### Day 36: November 19, 2018 
+
+**Today's Focus**:
+ -Worked on blog app using django framework
+
+**Details**:
+
+ -Blog app using Django framework: Design a model views and template to design a blog app and made some necessary changes in different file  to make app work properly.
+
+**Link to work**:[here](https://github.com/TanuAgrawal123/django-framework)
+
+[Table of Contents](#toc)
+<a name="day-37"></a>
+### Day 37: November 20, 2018 
+
+**Today's Focus**:
+ -Competitive coding on hackerearth
+
+**Details**:
+
+ -Mystery problem of hackerearth(on bit manupulation)
+
+**Link to work**:[Competitive coding](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/hackerearth_coding_practice)
+
+[Table of Contents](#toc)
+<a name="day-38"></a>
+### Day 38: November 21, 2018 
+
+**Today's Focus**:
+
+ - Worked on blog app
+
+**Details**:
+
+ - Blog app using Django framework: template extending Django forms in blog app  of django framework
+
+**Link to work**:[here](https://github.com/TanuAgrawal123/django-framework)
+
+[Table of Contents](#toc)
+<a name="day-39"></a>
+### Day 39: November 22, 2018 
+
+**Today's Focus**:
+
+ - Worked on blog app
+
+**Details**:
+
+ - Blog app using Django framework: Completed blog app project and fixed all issues .
+
+**Link to work**:[here](https://github.com/TanuAgrawal123/django-framework)
+
+[Table of Contents](#toc)
+<a name="day-40"></a>
+### Day 40: November 23, 2018 
+
+**Today's Focus**:
+
+ - Worked on poll app
+
+**Details**:
+
+ - poll app project on django framework: started creating  another application called poll app i.e  A public site that lets people view polls and vote in them. 
+  - writing views creating database in models and creating templates , playing with API. 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+Table of Contents](#toc)
+<a name="day-41"></a>
+### Day 41: November 24, 2018 
+
+**Today's Focus**:
+
+ - Worked on poll app
+
+**Details**:
+
+ - poll app project on django frameworkremoving hardcoded url, namespacing url, writing form(using generic view), testing styling ussing css ,customizing the admin form.
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
 
 
 
