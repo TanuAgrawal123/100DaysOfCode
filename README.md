@@ -25,7 +25,7 @@
 |[Day 37](#day-37) **20/01/18**| Competitive coding on hackerearth|[Day 38](#day-38) **21/11/18**| Worked on blog app|
 |[Day 39](#day-39) **22/01/18**| Worked on blog app|[Day 40](#day-40) **23/11/18**| started working on poll app|
 [Day 41](#day-41) **24/01/18**| Worked on poll app|[Day 42](#day-42) **25/11/18**|Worked on poll app |
-[Day 43](#day-41) **26/01/18**|Inheritance concepts of OOPS in Python|[Day 44](#day-44) **27/11/18**| |
+[Day 43](#day-43) **26/01/18**|Inheritance concepts of OOPS in Python|[Day 44](#day-44) **27/11/18**| |
 
 
 
