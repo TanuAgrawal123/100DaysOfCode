@@ -721,11 +721,12 @@
 
 **Today's Focus**: 
 
- -shortcut to access a base class without having to know its type or name.
+ - Inheritance concept of OOPS in python
 
 **Details**:
 
- - Inheritance Concept-creating subclasses: defining a subclass from baseclass, properties of subclass(help to follow DRY principle) ,Method resolution order, super().__init__ method(shortcut to access a base class without having to know its type or name), isinstance method(check instance of a class ,return boolean value), issubclass(check subclass of baseclass, return boolean value),
+ - Inheritance Concept-creating subclasses: defining a subclass from baseclass,
+   properties of subclass(help to follow DRY principle) ,Method resolution order, super().__init__ method(shortcut to access a base class without having to know its type or name), isinstance method(check instance of a class ,return boolean value), issubclass(check subclass of baseclass, return boolean value),
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/PythonPractice/OOPs%20in%20Python.ipynb)
 
