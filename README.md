@@ -24,7 +24,8 @@
 |[Day 35](#day-35) **18/01/18**| Worked on blog app|[Day 36](#day-36) **19/11/18**|Worked on blog app|
 |[Day 37](#day-37) **20/01/18**| Competitive coding on hackerearth|[Day 38](#day-38) **21/11/18**| Worked on blog app|
 |[Day 39](#day-39) **22/01/18**| Worked on blog app|[Day 40](#day-40) **23/11/18**| started working on poll app|
-[Day 41](#day-41) **24/01/18**| Worked on poll app|[Day 42](#day-42) **25/11/18**| |
+[Day 41](#day-41) **24/01/18**| Worked on poll app|[Day 42](#day-42) **25/11/18**|Worked on poll app |
+[Day 43](#day-41) **26/01/18**|Inheritance concepts of OOPS in Python|[Day 44](#day-44) **27/11/18**| |
 
 
 
@@ -694,12 +695,40 @@
 
 **Details**:
 
- - poll app project on django frameworkremoving hardcoded url, namespacing url, writing form(using generic view), testing styling ussing css ,customizing the admin form.
+ - poll app project on django framework:removing hardcoded url, namespacing url, writing form(using generic view), testing styling ussing css ,customizing the admin form.
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
 
 
+[Table of Contents](#toc)
+<a name="day-42"></a>
+### Day 42: November 25, 2018 
+
+**Today's Focus**: 
+
+ - Worked on poll app
+
+**Details**:
+
+ - poll app project on django framework: Adding some links to html file, perform some testing in project and made necessary change in test.py and views.py file( i.e not to  display the question before whose publication date is in future ).
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+
+[Table of Contents](#toc)
+<a name="day-43"></a>
+### Day 43: November 26, 2018 
+
+**Today's Focus**: 
+
+ -shortcut to access a base class without having to know its type or name.
+
+**Details**:
+
+ - Inheritance Concept-creating subclasses: defining a subclass from baseclass, properties of subclass(help to follow DRY principle) ,Method resolution order, super().__init__ method(shortcut to access a base class without having to know its type or name), isinstance method(check instance of a class ,return boolean value), issubclass(check subclass of baseclass, return boolean value),
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/PythonPractice/OOPs%20in%20Python.ipynb)
 
 
 
-
+ 
