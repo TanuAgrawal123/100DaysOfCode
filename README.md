@@ -25,7 +25,7 @@
 |[Day 37](#day-37) **20/01/18**| Competitive coding on hackerearth|[Day 38](#day-38) **21/11/18**| Worked on blog app|
 |[Day 39](#day-39) **22/01/18**| Worked on blog app|[Day 40](#day-40) **23/11/18**| started working on poll app|
 [Day 41](#day-41) **24/01/18**| Worked on poll app|[Day 42](#day-42) **25/11/18**|Worked on poll app |
-[Day 43](#day-43) **26/01/18**|Inheritance concepts of OOPS in Python|[Day 44](#day-44) **27/11/18**| |
+[Day 43](#day-43) **26/01/18**|Inheritance concepts of OOPS in Python|[Day 44](#day-44) **27/11/18**| Competitive coding on hackerearth and repr and str function in python |
 
 
 
@@ -731,5 +731,21 @@
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/PythonPractice/OOPs%20in%20Python.ipynb)
 
 
+[Table of Contents](#toc)
+<a name="day-44"></a>
+### Day 44: November 27, 2018 
 
+**Today's Focus**: 
+
+ - Competitive coding on hackerearth 
+ - str and repr method in python
+
+**Details**:
+
+ - Competitive coding:e-maze-in( basic of input/output)
+ - str(informal representation of object in a form of string, user readable form) and  
+   repr function(formal representation that has all information about the abject, used by developer in debugging), writing of __repr__ and __str__ in user defined classes.
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/PythonPractice/OOPs%20in%20Python.ipynb), [Competitive coding](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/hackerearth_coding_practice)
  
