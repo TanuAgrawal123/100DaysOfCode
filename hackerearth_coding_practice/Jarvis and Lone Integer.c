@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{int T,N,ans,i;
+{int T,N,ans,i,flag;
 scanf("%d",&T);
 while(T--)
 
@@ -11,17 +11,35 @@ for(i=0;i<N;i++)
 {
     scanf("%ld",&A[i]);
 }
-ans=A[0];
-for(i=1;i<N;i++)
-{
-ans=ans^A[i];
 
+for(i=0;i<N-1;i++)
+{flag=0;
+
+for(int j=0;j<N;j++)
+
+{if (i==j)
+continue;
+    ans=A[i]^A[j];
+if(ans==0)
+{flag=1;
+
+break;
 
 }
-if (ans==0)
-printf("-1");
-else
-printf("%d\n",ans);
+}
+if(flag==0)
+{printf("%ld\n",A[i]);
+break;
+}}
+
+
+
+
+if(flag==1)
+printf("-1\n");
 }
 return 0;
 }
+
+
+
