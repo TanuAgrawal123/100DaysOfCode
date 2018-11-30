@@ -26,6 +26,7 @@
 |[Day 39](#day-39) **22/01/18**| Worked on blog app|[Day 40](#day-40) **23/11/18**| started working on poll app|
 [Day 41](#day-41) **24/01/18**| Worked on poll app|[Day 42](#day-42) **25/11/18**|Worked on poll app |
 [Day 43](#day-43) **26/01/18**|Inheritance concepts of OOPS in Python|[Day 44](#day-44) **27/11/18**| Competitive coding on hackerearth and repr and str function in python |
+[Day 45](#day-43) **27/01/18**|Competitive coding on hackerearth|[Day 46](#day-46) **28/11/18**| Competitive coding on hackerearth|
 [Day 47](#day-47) **26/01/18**|Started learning Bootstrap 4.|[Day 48](#day-48) **01/12/18**|  |
 
 <a name="day-1"></a>
@@ -750,6 +751,39 @@
 
 
 [Table of Contents](#toc)
+<a name="day-45"></a>
+### Day 45: November 28, 2018 
+
+**Today's Focus**: 
+
+ - Competitive coding on hackerearth 
+
+**Details**:
+
+ - Competitive coding:cypher( basic of input/output), remove friends(linked list)
+ 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/PythonPractice/OOPs%20in%20Python.ipynb), [Competitive coding](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/hackerearth_coding_practice)
+
+[Table of Contents](#toc)
+<a name="day-44"></a>
+### Day 44: November 27, 2018 
+
+**Today's Focus**: 
+
+ - Competitive coding on hackerearth 
+
+
+**Details**:
+
+ - Competitive coding:jarvis and lone integer(on bit manupulation)
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/PythonPractice/OOPs%20in%20Python.ipynb), [Competitive coding](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/hackerearth_coding_practice)
+
+
+
+
+[Table of Contents](#toc)
 <a name="day-47"></a>
 ### Day 47: November 30, 2018 
 
@@ -762,4 +796,4 @@
  - introduction to bootstrap(free and open source front end web framework), its basic features like fluid and resposive grid system, easy layout on different screen size, its history and about its different versions.Method to use bootstrap:including bootstap from CDN or downloding it.Created first stater template containing a simple button and tooltip for link.
  - learned to create fluid and responsive layout:Containers(container(fixed width) and fluid-container(full width container)), grid system and breakpoints().
 
-**Link to work**: [here]
+**Link to work**: [here]()
