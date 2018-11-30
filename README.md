@@ -763,11 +763,11 @@
  - Competitive coding:cypher( basic of input/output), remove friends(linked list)
  
 
-**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/PythonPractice/OOPs%20in%20Python.ipynb), [Competitive coding](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/hackerearth_coding_practice)
+**Link to work**: [Competitive coding](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/hackerearth_coding_practice)
 
 [Table of Contents](#toc)
-<a name="day-44"></a>
-### Day 44: November 27, 2018 
+<a name="day-46"></a>
+### Day 46: November 28, 2018 
 
 **Today's Focus**: 
 
@@ -778,7 +778,7 @@
 
  - Competitive coding:jarvis and lone integer(on bit manupulation)
 
-**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/PythonPractice/OOPs%20in%20Python.ipynb), [Competitive coding](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/hackerearth_coding_practice)
+**Link to work**: [Competitive coding](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/hackerearth_coding_practice)
 
 
 
@@ -794,6 +794,6 @@
 **Details**:
 
  - introduction to bootstrap(free and open source front end web framework), its basic features like fluid and resposive grid system, easy layout on different screen size, its history and about its different versions.Method to use bootstrap:including bootstap from CDN or downloding it.Created first stater template containing a simple button and tooltip for link.
- - learned to create fluid and responsive layout:Containers(container(fixed width) and fluid-container(full width container)), grid system and breakpoints().
+ - learned to create fluid and responsive layout:Containers(container(fixed width) and fluid-container(full width container)), grid system and breakpoints() :adjusting column according to screen size.
 
 **Link to work**: [here]()
