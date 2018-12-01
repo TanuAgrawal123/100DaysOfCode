@@ -8,6 +8,13 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+  <style>
+  
+  .container{
+  	
+  	background-color:red;
+  }
+</style>
 </head>
 <body>
 
@@ -17,16 +24,24 @@
 
 <h1>grid system</h1>
 	<div class="container">
-		<div class="row-align-item-start" style="background-color:lightgreen ;border: 1px solid black;">
-		<div class="col" style="background-color:red ;border: 1px solid black;">column</div>
-		<div class="col" style="background-color:red;border: 1px solid black;">column</div>
-		<div class="col">column</div>
-		<div class="col">column</div>
+		<div class="row" style="background-color:lightgreen; border: 1px solid black ">
+		<div class="col order-12">col first apper last</div>
+		<div class="col order-1">col 2 apper first</div>
+		<div class="col">column3</div>
+		<div class="col">column 4</div>
 	</div>
-	<div class="row-align-item-center" style="background-color:yellow;">
-		<div class="col-3 col-sm-4 col-lg-4">column</div>
-		<div class="col-3">column</div>
-		<div class="col-3">column</div>
-		<div class="col-3">column</div>
+	<div class="row" style="background-color:yellow; border: 1px solid black">
+		<div class="col-3">column1</div>
+		<div class="col-3">column2</div>
+		<div class="col-3">column3</div>
+		<div class="col-3">column4</div>
+	</div>
+	<div class="row" style="background-color:blue; border: 1px solid black;">
+		<div class= "col-md-5" style="border:1px solid black;">column1</div>
+		<div class="col-md-5 ml-auto" style="border:1px solid black;">column</div>
+	</div>
+	<div class="row" style="background-color:orange; border: 1px solid black;">
+		<div class= "col-lg-4 offset-lg-3" style="border:1px solid black;">column1</div>
+		<div class="col-lg-4 offset-lg-1" style="border:1px solid black;">column</div>
 	</div>
    </div>
