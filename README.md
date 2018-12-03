@@ -27,7 +27,8 @@
 [Day 41](#day-41) **24/01/18**| Worked on poll app|[Day 42](#day-42) **25/11/18**|Worked on poll app |
 [Day 43](#day-43) **26/01/18**|Inheritance concepts of OOPS in Python|[Day 44](#day-44) **27/11/18**| Competitive coding on hackerearth and repr and str function in python |
 [Day 45](#day-43) **28/01/18**|Competitive coding on hackerearth|[Day 46](#day-46) **29/11/18**| Competitive coding on hackerearth|
-[Day 47](#day-47) **30/01/18**|Started learning Bootstrap 4.|[Day 48](#day-48) **01/12/18**| Grid system and breakpoints, media object and typography concept in bootstrap.|
+[Day 47](#day-47) **30/11/18**|Started learning Bootstrap 4.|[Day 48](#day-48) **01/12/18**| Grid system and breakpoints, media object and typography concept in bootstrap.|
+[Day 49](#day-49) **02/12/18**|Typography and images in bootstrap.|[Day 50](#day-50) **03/12/18**| Tables and Codes in bootstrap |
 
 <a name="day-1"></a>
 
@@ -812,6 +813,43 @@
  - Grid system and breakpoints: 12 column system, 5 breakpoints(xs, sm, md, lg, xl) order classes(order columns by breakpoints), offsetting columns(offset grid columns in two ways: our responsive .offset- grid classes and our margin utilities.).
  - Media object: easy way to align media objects (like images or videos) together with content. using .media class container and placing .media-body inside as a child container to implement media object concept, nested media object(place a new .media container inside the .media-body container), aligning media object image, using unorderd list in media object.
  - Typography:help to create headings, paragraphs, lists and other inline elements. heading, display heading, lead property, mark property.  
+
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+<a name="day-49"></a>
+### Day 49: December 02, 2018 
+
+**Today's Focus**: 
+
+ - Typography and images in bootsrap.
+
+**Details**:
+
+ - Typography in Bootstap: abbreviations using abbr tag, blockquote property (represent content from 
+  another source code) using blockquote tag, footer-blockquote tag, list in bootsrap(unstyling the list using "list-unstyled" class and inlining the list using "list-inline" class).
+- Images in Bootstrap: setting different styling to images like using .rounded class (add rounded
+  corners to an image), .img-thumbnail class( shapes image to a thumbnail),responsive images( using .img-fluid) , aligning images( using .float-right, .float-right class), centered image(.mx-auto  it set margin to auto and .d-block set display equal block to image). 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+
+
+[Table of Contents](#toc)
+<a name="day-50"></a>
+### Day 50: December 3, 2018 
+
+**Today's Focus**: 
+
+ - Tables and codes  in bootstrap.
+
+**Details**:
+
+ - Tables in bootstrap: .table class(add basic styling to table i.e light padding and horizontal 
+   divider), .table-striped class (add zebras-stripes to a table), .table-bordered(add border), .table-hover(add a hover effect), contextual classes( to color rows or table cell like .success indicate positive action, .warning indicate attention and many more), .table responsive class ( create a responsive table by adding horizontal scrolling ). <caption> (function like heading of table), using of breakpoint in tables. 
+ - Code in bootstrap: code tag-a phrase tag , defines a piece of code, kbd tag defines a keybord input, var tag (defines a variable in italic) .pre-scrollable class (provide a y axis scroller with max-height of 350px). samp tag (indicate a sample output from a program).
 
 
 
