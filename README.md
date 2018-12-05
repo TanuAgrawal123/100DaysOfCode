@@ -29,6 +29,7 @@
 [Day 45](#day-43) **28/01/18**|Competitive coding on hackerearth|[Day 46](#day-46) **29/11/18**| Competitive coding on hackerearth|
 [Day 47](#day-47) **30/11/18**|Started learning Bootstrap 4.|[Day 48](#day-48) **01/12/18**| Grid system and breakpoints, media object and typography concept in bootstrap.|
 [Day 49](#day-49) **02/12/18**|Typography and images in bootstrap.|[Day 50](#day-50) **03/12/18**| Tables and Codes in bootstrap |
+[Day 51](#day-51) **04/12/18**|Alerts, badges and breadcrumbs in bootstrap.|[Day 52](#day-52) **05/12/18**| buttons and button group in bootstrsap |
 
 <a name="day-1"></a>
 
@@ -852,5 +853,38 @@
  - Code in bootstrap: code tag-a phrase tag , defines a piece of code, kbd tag defines a keybord input, var tag (defines a variable in italic) .pre-scrollable class (provide a y axis scroller with max-height of 350px). samp tag (indicate a sample output from a program).
 
 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+
+[Table of Contents](#toc)
+<a name="day-51"></a>
+### Day 51: December 4, 2018 
+
+**Today's Focus**: 
+
+ - alerts, badeges, breadcrumbs in bootstrap 
+**Details**:
+.
+ - Alerts in bootstrap: give  flexible alert message for user action. using contextual classes to give alert message by starting with .alert followed by contextual classes, use of .alert-link class in the link to create matching color list,closing the alert message using .alert-dismissible class(creating a button or link and defining data-dismiss="alert"), using .fade and .show class to show fading effect on closing alert. 
+ 
+ - Badges and breadcrumbs in bootstrap: Badges indicate how many items are associated with a link. using .badge and contextual classes(like .badge-primary) to create badges inside span, adding badges to button using .btn and contextual classes,Using .badge-pill class to make badges rounded. Breadcrumps indicate the current page location with education hiereachy ,defining breadcrumb using .breadcrumbs class .breadcrumb-item class. 
+ 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+<a name="day-52"></a>
+### Day 52: December 5, 2018 
+
+**Today's Focus**: 
+
+ - Buttons and buttons group in bootstrap.
+
+**Details**:
+.
+ - Buttons and button group:  use of .btn classes to  with (a href tag, input tag, button tag), use of  contextual classes inside button,outline or borederd buttons,creating button of different size, creating block level button that spans entire width, setting button active or disable state(unclickable), checkbox and radio buttons, toggle state(to toggle a button’s active state.), grouping of buttons-using .btn-group, creting buttob group vertically using btn group-vertical classes.
+ 
+ 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
