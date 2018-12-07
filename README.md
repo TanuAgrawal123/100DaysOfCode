@@ -30,6 +30,7 @@
 [Day 47](#day-47) **30/11/18**|Started learning Bootstrap 4.|[Day 48](#day-48) **01/12/18**| Grid system and breakpoints, media object and typography concept in bootstrap.|
 [Day 49](#day-49) **02/12/18**|Typography and images in bootstrap.|[Day 50](#day-50) **03/12/18**| Tables and Codes in bootstrap |
 [Day 51](#day-51) **04/12/18**|Alerts, badges and breadcrumbs in bootstrap.|[Day 52](#day-52) **05/12/18**| buttons and button group in bootstrsap |
+[Day 53](#day-53) **06/12/18**|Cards in bootstrap.|[Day 54](#day-54) **07/12/18**| Carousels and dropdowns in bootstrap. |
 
 <a name="day-1"></a>
 
@@ -888,3 +889,35 @@
  
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+<a name="day-53"></a>
+### Day 53: December 6, 2018 
+
+**Today's Focus**: 
+
+ - Card in bootstrap
+
+**Details**:
+.
+ - Card in bootstrap:flexible and extensible content container.creation of  card using .card class and content inside is put using .card-body class, .card-header class adds a heading to the card , .card-footer class adds a footer to the card., use of contextual class to add background color to the classes(like .bg-primary), use of .card-title to add title , adding image using .card-img, seeting any image as background by .card-img-overlay class, creating columns using .card-columns, creating a grid of card using .card-deck  class which are equal height and width , to add text to the card use .card-title class, adding list to the card using list-group and list-group-item class. 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+<a name="day-54"></a>
+### Day 54: December 7, 2018 
+
+**Today's Focus**: 
+
+ - Carousel and dropdowns  in bootstrap
+
+**Details**:
+.
+ - Carousels in bootstrap: It is a slideshow for cycling through a series of content. use of carousels class to insure this this container carousel, use of id="carousel" to have proper functioning, use of data-ride="carousel"  to begin slideshow immediately when the page loads, adding indicators to carsouels using .carousel-indicator, use of data-target  to point out id of the carousel, use of active class to one of the slide to have visibility of the slide, adding caption to the carousels.
+
+- Dropdowns in bootstrap: it is use to hide and show content on a click. use of data-toogle to hide or show the content, use of data-target to attach the button to the content, use of .show to show the content by default, hiding multple elements using a single button, applying Accordion property (showing only one collapsed item at the same time.) using accordino class. 
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+

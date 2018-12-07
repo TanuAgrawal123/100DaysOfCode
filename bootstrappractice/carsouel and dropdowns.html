@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div id="carousel" class="carousel slide-fade" data-ride="carousel" data-pause data-wrap="false" data-interval="500" data-keyboard="false">
+		<ol class="carousel-indicators">
+			<li data-target="#carousel" data-slide-to="0" class="active"></li>
+			<li data-target="#carousel" data-slide-to="1"></li>
+			<li data-target="#carousel" data-slide-to="2"></li>
+		</ol>
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<img src="http://placehold.it/1200x400" alt="First-slide" class="d-block img-fluid">
+				<div class="carousel-caption"
+				<h3>caption</h3>
+				<p>this text describes our first slide</p> 
+			</div>
+		</div>
+			<div class="carousel-item">
+				<img src="http://placehold.it/1200x400" alt="second-slide" class="d-block img-fluid">
+				<div class="carousel-caption"
+				<h3>caption</h3>
+				<p>this text describes our second slide</p>
+			</div>
+		</div>
+			<div class="carousel-item">
+				<img src="http://placehold.it/1200x400" alt="third-slide" class="d-block img-fluid">
+				<div class="carousel-caption"
+				<h3>caption</h3>
+				<p>this text describes our third slide</p>
+</div>
+			</div>
+		</div>
+		<a href="#carousel" class="carousel-control-prev" role="button" data-slide="prev">
+			<span class="carousel-control-prev-icon" arial-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+		<a href="#carousel" class="carousel-control-next" role="button" data-slide="next">
+			<span class="carousel-control-next-icon" arial-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+	</div>
+<h1>Component:Collapse</h1>
+<a href="#hrefCollapse" class="btn btn-primary" data-toggle="collapse" aria-expanded="false" aria controls="hrefCollapse" class="Collapse">link with href</a>
+<div id="hrefCollapse" class="collapse">
+	<div class="alert alert-success">hi this is tanu agrawal</div>
+</div>
+<br>
+<button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#dataTargetCollapse" aria-expanded="false" aria-controls="dataTargetCollapse">Button with data-target</button>
+<div id="dataTargetCollapse" class="collapse">
+	<div class="alert alert-success">hi this is tanu agrawal</div>
+</div>
+
+
+<br>
+<button type="button" class="btn btn-primary" data-toggle="collapse" data-target=".multiple-collapse" aria-expanded="false" aria-controls="multiplecollapse1 multiplecollapse2">Button with data-target</button>
+<div id="multiplecollapse1" class="collapse multiple-collapse">
+	<div class="alert alert-success">hi this is tanu agrawal</div>
+</div>
+<div id="multiplecollapse2" class="collapse multiple-collapse">
+	<div class="alert alert-success">hi this is tanu agrawal</div>
+</div>
+<div class="accordion" id ="accordion">
+	<div class="card">
+		<div class="card-header" id="headingOne">
+			<button type="button" class=" btn btn-link" data-toggle="collapse" data-target="#collapseOne" arial-expanded="true" arial-controls="collapseOne">Heading one</button>
+		</div>
+		<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+			<div class="card-body">A screen reader is a software application that enables people with severe visual impairments to use a computer. Screen readers work closely with the computer's Operating System (OS) to provide information about icons, menus, dialogue boxes, files and folders</div>
+		</div>
+	</div>
+	<div class="card">
+		<div class="card-header" id="headingTwo">
+			<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo" arial-expanded="true" arial-controls="collapseTwo">Heading one</button>
+		</div>
+		<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+			<div class="card-body">A screen reader is a software application that enables people with severe visual impairments to use a computer. Screen readers work closely with the computer's Operating System (OS) to provide information about icons, menus, dialogue boxes, files and folders</div>
+		</div>
+	</div>
+	<div class="card">
+		<div class="card-header" id="headingThree">
+			<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseThree" arial-expanded="true" arial-controls="collapseThree">Heading three</button>
+		</div>
+		<div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordion">
+			<div class="card-body">A screen reader is a software application that enables people with severe visual impairments to use a computer. Screen readers work closely with the computer's Operating System (OS) to provide information about icons, menus, dialogue boxes, files and folders</div>
+		</div>
+	</div>
+</div>
+
+				
+</body>
+</html>
+
