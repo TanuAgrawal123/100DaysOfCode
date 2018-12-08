@@ -31,7 +31,7 @@
 [Day 49](#day-49) **02/12/18**|Typography and images in bootstrap.|[Day 50](#day-50) **03/12/18**| Tables and Codes in bootstrap |
 [Day 51](#day-51) **04/12/18**|Alerts, badges and breadcrumbs in bootstrap.|[Day 52](#day-52) **05/12/18**| buttons and button group in bootstrsap |
 [Day 53](#day-53) **06/12/18**|Cards in bootstrap.|[Day 54](#day-54) **07/12/18**| Carousels and dropdowns in bootstrap. |
-
+[Day 55](#day-55) **08/12/18**|Forms in bootstrap.|
 <a name="day-1"></a>
 
  
@@ -920,4 +920,20 @@
 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+<a name="day-55"></a>
+### Day 55: December 8, 2018 
+
+**Today's Focus**: 
+
+ - Forms  in bootstrap
+
+**Details**:
+.
+ - Forms in bootstrap:  learned to create forms using different classes attribute. form control class help to recieve automatically global styling with bootstrap. form group class help to add structure to forms. use of different type of attribute according the value required, use of label input and select tag and their various attribute, use of .form-check class in checkbox and radio to improve the layout, adding disabled checkbox and radio using disabled attibute, creating custom forms checkboxes and files.
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
 
