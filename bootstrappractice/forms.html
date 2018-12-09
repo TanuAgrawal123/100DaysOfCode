@@ -174,7 +174,169 @@
 
 
 	</form>
+	<br>
+	<Br>
+	<h2> forms layout</h2>
+	<div class="form-group">
+		<label for="smFormInput">small</label>
+		<input type="text" class="form-control form-control-sm" id="smFormInput" palceholder="small">
+	</div>
+	<div class="form-group">
+		<label for="lgFormInput">Large</label>
+		<input type="text" class="form-control form-control-lg" id="lgFormInput" palceholder="large">
+	</div>
+	<div class="form-group">
+		<label for="defaultFormInput">Default</label>
+		<input type="text" class="form-control form-control-default" id="defaultFormInput" palceholder="default">
+	</div>
+<h5>form classes using grid classes</h5>
+<form>
+	<div class="row">
+		<div class="col">
+		<div class="form-group">
+			<label for="gridfirstname">First Name</label>
+			<input type="text" class="form-control" id="gridfirstname" placeholder="First Name">
+		</div>
+	</div>
+	
+		<div class="col">
+		<div class="form-group">
+			<label for="gridlastname">last Name</label>
+			<input type="text" class="form-control" id="gridlastname" placeholder="last Name">
+		</div>
+	</div>
+</div>
+	<div class="row">
+		<div class="col-6">
+		<div class="form-group">
+			<label for="gridaddress">Address</label>
+			<input type="text" class="form-control" id="gridaddress" placeholder="Address">
+		</div>
+	</div>
+	<div class="col-3">
+		<div class="form-group">
+			<label for="gridzip">zip</label>
+			<input type="text" class="form-control" id="gridzip" placeholder="zip">
+		</div>
+	</div>
+	<div class="col-3">
+		<div class="form-group">
+			<label for="gridcountry">country</label>
+			<input type="text" class="form-control" id="gridcountry" placeholder="country">
+		</div>
+	</div>
+</div>
+</form>
+<h5> Compact form layout using grid classes</h5>
+<form>
+	<div class="form-row">
+	<div class="col"> 
 
+<div class="form-group">
+			<label for="compactfirstname">first name</label>
+			<input type="text" class="form-control" id="compactfirstname" placeholder="first name">
+		</div>
+	</div>
+		<div class="col">
+		<div class="form-group">
+			<label for="compactlastname">last name</label>
+			<input type="text" class="form-control" id="compactlastname" placeholder="Last name">
+		</div>
+	</div>
+</div>
+
+		<div class="form-row">
+		<div class="col-6">
+		<div class="form-group">
+			<label for="gridaddress">Address</label>
+			<input type="text" class="form-control" id="gridaddress" placeholder="Address">
+		</div>
+	</div>
+	<div class="col-3">
+		<div class="form-group">
+			<label for="gridzip">zip</label>
+			<input type="text" class="form-control" id="gridzip" placeholder="zip">
+		</div>
+	</div>
+	<div class="col-3">
+		<div class="form-group">
+			<label for="gridcountry">country</label>
+			<input type="text" class="form-control" id="gridcountry" placeholder="country">
+		</div>
+	</div>
+</div>
+</form>
+<h5>horizontal forms</h5>
+<form>
+	<div class="form-group row">
+		<label for="horizontalinputemail" class="col-sm-3 col-form-label">
+		Email</label>
+		<div class="col-sm-9">
+			<input type="email" class="form-control" id="horizontalinputemail" placeholder="email">
+		</div>
+	</div>
+	div class="form-group row">
+		<label for="horizontalinputpassword" class="col-sm-3 col-form-label">
+		password</label>
+		<div class="col-sm-9">
+			<input type="password" class="form-control" id="horizontalinputpassword" placeholder="password">
+		</div>
+	</div>
+<fieldset class="form-group">
+	<div class="row">
+		<legend class="col-sm-3 col-form-label pt-0">Radios</legend>
+		<div class="col-sm-9">
+			<div class="form-check">
+				<input type="radio" class="form-check-input" name="horizontalRadios" id ="horizontalRadios1" value="option1" checked>
+				<label class="form-check-label" for="horizontalRadios1">option one is this and that&mdash;be include why it's great</label>
+			</div>
+			<div class="form-check">
+				<input type="radio" class="form-check-input" name="horizontalRadios" id ="horizontalRadios2" value="option2">
+				<label class="form-check-label" for="horizontalRadios2">tion two can be something and selecting will deselect one</label>
+			</div>
+			<div class="form-check">
+				<input type="radio" class="form-check-input" name="horizontalRadios" id ="horizontalRadios3" value="option3" disabled>
+				<label class="form-check-label" for="horizontalRadios3">option three is disabled</label>
+			</div>
+</div>
+</div>
+</fieldset>
+</form>
+
+<br>
+<h5>inline forms</h5>
+
+<form class="form-inline">
+<label for="inlineinputone" class="sr-only">Name</label>
+<input type="text" class="form-control mr-2" id="inlineinputone" placeholder="Name">
+<label for="inlineinputtwo">userName</label>
+<input type="text" class="form-control mr-2" id="inlineinputtwo" placeholder="userName">
+<div class="form-check mr-2">
+
+<input type="checkbox" class="form-check-input" id="inlineCheckbox">
+<label class="form-check-label" for="inlineCheckbox">Remember me</label>
+</div>
+<button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+</fieldset>
 
 
 
