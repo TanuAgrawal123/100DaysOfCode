@@ -31,7 +31,8 @@
 [Day 49](#day-49) **02/12/18**|Typography and images in bootstrap.|[Day 50](#day-50) **03/12/18**| Tables and Codes in bootstrap |
 [Day 51](#day-51) **04/12/18**|Alerts, badges and breadcrumbs in bootstrap.|[Day 52](#day-52) **05/12/18**| buttons and button group in bootstrsap |
 [Day 53](#day-53) **06/12/18**|Cards in bootstrap.|[Day 54](#day-54) **07/12/18**| Carousels and dropdowns in bootstrap. |
-[Day 55](#day-55) **08/12/18**|Forms in bootstrap.|
+[Day 55](#day-55) **08/12/18**|Forms in bootstrap.|[Day 56](#day-56) **09/12/18**| form layout in bootstrap|
+[Day 57](#day-57) **10/12/18**|Forms validation in bootstrap.|[Day 58](#day-58) **11/12/18**| |
 <a name="day-1"></a>
 
  
@@ -937,3 +938,29 @@
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
 
+<a name="day-55"></a>
+### Day 56: December 9, 2018 
+
+**Today's Focus**: 
+
+ - Forms layout in bootstrap
+
+**Details**:
+.
+ - Forms layout in bootstrap: there are mainly two layout Stacked (full-width) form ,Inline form layout.
+ In an inline form, all of the elements are inline and left-aligned. using .form-inline. form can be layou using grid classes also to have multiple columns, varied widths, and additional alignment options we can make horizontal form also with the grid by adding the .row class to form groups and using the .col  classes to specify the width of your labels and controls.we can also make compact form layout using grid classes.
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+<a name="day-55"></a>
+### Day 57: December 10, 2018 
+
+**Today's Focus**: 
+
+ - Forms validation in bootstrap
+
+**Details**:
+.
+ - Forms Validation in bootstrap: there are mainly three ways to validate a form 1.dafault browser form validation (adding required attributes to different fields)2. using bootstrap custom stlying gor client side (nonvalidate:(won,t validate in default way), was-validate to validate form by applying styling ) use of feedback text and feedback tooltip using a javascript function to use was-validate class at the timeof submiting the form) .3.using bootstrap custom stlying for server side( by adding the class is-valid and is-invalid in input tag).   
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)

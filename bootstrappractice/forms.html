@@ -9,8 +9,34 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+  <style>
+  	.form-group{
+  		position: relative;
+  	}
+  </style>
 </head>
+
 <body>
+	<script>
+// Example starter JavaScript for disabling form submissions if there are invalid fields
+(function() {
+  'use strict';
+  window.addEventListener('load', function() {
+    // Fetch all the forms we want to apply custom Bootstrap validation styles to
+    var forms = document.getElementsByClassName('needs-validation');
+    // Loop over them and prevent submission
+    var validation = Array.prototype.filter.call(forms, function(form) {
+      form.addEventListener('submit', function(event) {
+        if (form.checkValidity() === false) {
+          event.preventDefault();
+          event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+      }, false);
+    });
+  }, false);
+})();
+</script>
 	<form>
 		<div class="form-group">
 			<label for="example-input">Example</label>
@@ -317,6 +343,95 @@
 <label class="form-check-label" for="inlineCheckbox">Remember me</label>
 </div>
 <button type="submit" class="btn btn-primary">Submit</button>
-</form>	
+</form>
+<h1>form validation</h1>
+<form id="form" novalidate class="needs-validation">
+	<div class="form-group">
+		<label for="form-text">Text input</label>
+		<input type="text" class="form-control" id="form-text" required>
+		<p class="valid-tooltip">valid feedback text</p>
+<p class="invalid-tooltip">invalid feedback text</p>
+		
+	</div>
+	<div class="form-group">
+		<label for="formnumber">number input</label>
+		<input type="number" class="form-control" id="formnumber" required>
+		<p class="valid-tooltip">valid feedback text</p>
+<p class="invalid-tooltip">invalid feedback text</p>
+	</div>
+	<div class="form-group">
+		<label for="formtextarea">Textarea</label>
+		<textarea class="form-control" id="formtextarea" rows="5" placeholder="write your message here" required>
+</textarea>
+<p class="valid-tooltip">valid feedback text</p>
+<p class="invalid-tooltip">invalid feedback text</p>
+	</div>
+	<div class="form-group">
+		<label for="formselect">select one</label>
+		<select class="form-control" id="formselect">
+			<option value="">Select</option>
+			<option value="1">option 1</option>
+			<option value="2">option 2</option>
+			<option value="3">option 3</option>
+		</select>
+		<p class="valid-tooltip">valid feedback text</p>
+<p class="invalid-tooltip">invalid feedback text</p>
+	</div>
+<div class="form-check">
+	<input type="checkbox" class="form-check-input" id="formcheckbox" value="optionone" required>
+	<label class="form-check-label" for="formcheckbox">option one</label>
+	<p class="valid-tooltip">valid feedback text</p>
+<p class="invalid-tooltip">invalid feedback text</p>
+</div>
+<div class="form-check">
+	<input type="radio" class="form-check-input" id="formradios1" value="optionone" name="formradios" required>
+	<label class="form-check-label" for="formradios1">option one</label>
+	<p class="valid-tooltip">valid feedback text</p>
+<p class="invalid-tooltip">invalid feedback text</p>
+</div>
+
+<div class="form-check">
+	<input type="radio" class="form-check-input" id="formradios2" value="optiontwo" name="formradios" required>
+	<label class="form-check-label" for="formradios2">option three</label>
+	<p class="valid-tooltip">valid feedback text</p>
+<p class="invalid-tooltip">invalid feedback text</p>
+</div>
+
+<div class="custom-control custom-checkbox">
+			<input type="checkbox" class="custom-control-input" id="custom22" value="customs" required>
+			<label class="custom-control-label" for="custom22">custom checkbox</label>
+			<p class="valid-tooltip">valid feedback text</p>
+<p class="invalid-tooltip">invalid feedback text</p>
+		</div>
+<div class="custom-control custom-radio">
+			<input type="radio" class="custom-control-input" id="custom33" value="customs" name="radioss" required>
+			<label class="custom-control-label" for="custom33">custom radio1</label>
+		<p class="valid-tooltip">valid feedback text</p>
+<p class="invalid-tooltip">invalid feedback text</p>
+		</div>
+
+<div class="custom-control custom-radio">
+	
+			<input type="radio" class="custom-control-input" id="custom11" value="custom" name="radioss" required>
+			<label class="custom-control-label" for="custom11">custom radio 2</label>
+		<p class="valid-tooltip">valid feedback text</p>
+<p class="invalid-tooltip">invalid feedback text</p>
+		</div>
+	
+<div class="form-group">
+			<label for="customselect1" class="sr-only">Custom select</label>
+			<select class="form-control custom-select custom-select-lg" id="customselect1" required>
+				<option selected>custom select</option>
+				<option value="1">option one</option>
+				<option value="2">option two</option>
+				<option value="3">option three</option>
+			</select>
+			<p class="valid-tooltip">valid feedback text</p>
+<p class="invalid-tooltip">invalid feedback text</p>
+		</div>
+<button type="submit" class="btn btn-primary">submit form</button>
+</form>
+
+
 </body>
 </html>
