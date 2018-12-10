@@ -938,7 +938,8 @@
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
 
-<a name="day-55"></a>
+[Table of Contents](#toc)
+<a name="day-56"></a>
 ### Day 56: December 9, 2018 
 
 **Today's Focus**: 
@@ -952,7 +953,9 @@
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
-<a name="day-55"></a>
+
+[Table of Contents](#toc)
+<a name="day-57"></a>
 ### Day 57: December 10, 2018 
 
 **Today's Focus**: 
