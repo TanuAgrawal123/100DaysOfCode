@@ -32,9 +32,11 @@
 [Day 51](#day-51) **04/12/18**|Alerts, badges and breadcrumbs in bootstrap.|[Day 52](#day-52) **05/12/18**| buttons and button group in bootstrsap |
 [Day 53](#day-53) **06/12/18**|Cards in bootstrap.|[Day 54](#day-54) **07/12/18**| Carousels and dropdowns in bootstrap. |
 [Day 55](#day-55) **08/12/18**|Forms in bootstrap.|[Day 56](#day-56) **09/12/18**| form layout in bootstrap|
-[Day 57](#day-57) **10/12/18**|Forms validation in bootstrap.|[Day 58](#day-58) **11/12/18**| |
-<a name="day-1"></a>
+[Day 57](#day-57) **10/12/18**|Forms validation in bootstrap.|[Day 58](#day-58) **11/12/18**| input group in bootstrap|
+[Day 59](#day-59) **12/12/18**| jumbotron and list group in bootstrap |[Day 60](#day-60) **13/12/18**| |
 
+
+<a name="day-1"></a>
  
 ### Day 1: October 15, 2018 
 
@@ -966,4 +968,38 @@
 .
  - Forms Validation in bootstrap: there are mainly three ways to validate a form 1.dafault browser form validation (adding required attributes to different fields)2. using bootstrap custom stlying gor client side (nonvalidate:(won,t validate in default way), was-validate to validate form by applying styling ) use of feedback text and feedback tooltip using a javascript function to use was-validate class at the timeof submiting the form) .3.using bootstrap custom stlying for server side( by adding the class is-valid and is-invalid in input tag).   
 
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+
+[Table of Contents](#toc)
+<a name="day-58"></a>
+### Day 58: December 11, 2018 
+
+**Today's Focus**: 
+
+ -Input groups in bootstrap
+
+**Details**:
+.
+ - Input groups in bootstrap: Input groups in bootstrap: allows to add an icon, text or button in front or behind the input field as a help text using input-group class. using input-group-prepend we can add help text in front of input and by using input-group-append we can it behibd the input. using .input-group-text we can add specific help text. we can use radios and checkbox as help text. we can add dropdown button in the input group also and we can vary size of input group using input-group-size.using for label in input group for screen readers. 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+<a name="day-59"></a>
+### Day 59: December 12, 2018 
+
+**Today's Focus**: 
+
+ - jumbotron and list group in bootstrap:
+
+**Details**:
+.
+- jumbotron in bootstrap: it is a box for calling extra attention to some special content of 
+ information.use of .jumbotron class to create jumbotron. ew can place jumbotron inside a container called normal jumbotron , we can place jumbotron outside the container of full width with fixed text length or full width text.
+- List group in bootstrap:they are flexible and poweful tool for displaying a series of content. the most basic list group is unorderd list with list item using list-group class and list-group-item class. list group can be created using button with contextual classes and with anchor tag also.list group can be created by including badges also we can extend our list group to tabable panes list item by activate javascrip through data-toggle atttribute. we can also make our tab panel fade using .fade class and .show to show the content.
+
+
+
+ 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)

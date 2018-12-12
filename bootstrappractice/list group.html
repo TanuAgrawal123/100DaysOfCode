@@ -1,0 +1,56 @@
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<ul class="list-group">
+		<li class="list-group-item">list group item</li>
+		<li class="list-group-item">list group item</li>
+		<li class="list-group-item">list group item</li>
+		<li class="list-group-item active">list group item</li>
+		<li class="list-group-item disabled">list group item</li>
+	</ul>
+	<div class="list-group">
+		<a href="#" class="list-group-item list-group-item-action">list group item</a>>
+		<a  href="#" class="list-group-item list-group-item-action">list group item</a>
+		<a href="#" class="list-group-item list-group-item-action">list group item</a>
+		<a href="#" class="list-group-item list-group-item-action active">list group item</a>
+		<a href="#" class="list-group-item list-group-item-action disabled">list group item</a>
+	</div>
+	<br>
+	<div class="list group">
+		<button type="button" class="list-group-item list-group-item-action list-group-item-secondary d-flex justify-content-between align-item-center">list group item
+		<span class="badge badge-primary badge-pill">12</span></button>
+		<button type="button" class="list-group-item list-group-item-action list-group-item-primary">list group item</button>
+		<button type="button" class="list-group-item list-group-item-action list-group-item-dark">list group item</button><button type="button" class="list-group-item list-group-item-action list-group-item-info">list group item</button><button type="button" class="list-group-item list-group-item-action list-group-item-danger">list group item</button>
+		<button type="button" class="list-group-item list-group-item-action list-group-item-warning">list group item</button>
+	</div>
+<h2>tab panels</h2>
+<div class="row">
+	<div class="col-4">
+
+		<div id="nav-tablist" class="list-group" role="tablist">
+			<a href="#list-home" id="list-home-list" class="list-group-item list-group-item-action active" data-toggle="list" role="tab" aria-controls="home">Home</a>        
+			
+			<a href="#list-profile" id="list-profile-list" class="list-group-item list-group-item-action" data-toggle="list" role="tab" aria-controls="profile">profile</a>
+			<a href="#list-message" id="list-message-list" class="list-group-item list-group-item-action" data-toggle="list" role="tab" aria-controls="messages">messages</a>
+			<a href="#list-settings" id="list-settings-list" class="list-group-item list-group-item-action"data-toggle="list" role="tab" aria-controls="settings">settings</a>
+		</div>
+	</div>
+		<div class="col-8">
+			<div id="nav-tabContent" class="tab-content">
+				<div id="list-home" class="tab-pane fade show active">home:Use a native font stack that selects the best font-family for each OS and device</div>
+				<div id="list-profile" class="tab-pane fade" role="tabpanel" aria-labelledby="list-">home:Use a native font stack that selects the best font-family for each OS and device</div>
+				<div id="list-message" class="tab-pane fade">home:Use a native font stack that selects the best font-family for each OS and device</div>
+				<div id="list-settings" class="tab-pane fade">home:Use a native font stack that selects the best font-family for each OS and device</div>
+			</div>
+		</div>
+
+</body>
+</html>
