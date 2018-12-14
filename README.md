@@ -33,8 +33,8 @@
 [Day 53](#day-53) **06/12/18**|Cards in bootstrap.|[Day 54](#day-54) **07/12/18**| Carousels and dropdowns in bootstrap. |
 [Day 55](#day-55) **08/12/18**|Forms in bootstrap.|[Day 56](#day-56) **09/12/18**| form layout in bootstrap|
 [Day 57](#day-57) **10/12/18**|Forms validation in bootstrap.|[Day 58](#day-58) **11/12/18**| input group in bootstrap|
-[Day 59](#day-59) **12/12/18**| jumbotron and list group in bootstrap |[Day 60](#day-60) **13/12/18**| |
-
+[Day 59](#day-59) **12/12/18**| jumbotron and list group in bootstrap |[Day 60](#day-60) **13/12/18**|Modals in bootstrap |
+[Day 61](#day-61) **14/12/18**| Navigation in bootstrap |[Day 62](#day-62) **13/12/18**| |
 
 <a name="day-1"></a>
  
@@ -1000,6 +1000,38 @@
 - List group in bootstrap:they are flexible and poweful tool for displaying a series of content. the most basic list group is unorderd list with list item using list-group class and list-group-item class. list group can be created using button with contextual classes and with anchor tag also.list group can be created by including badges also we can extend our list group to tabable panes list item by activate javascrip through data-toggle atttribute. we can also make our tab panel fade using .fade class and .show to show the content.
 
 
+
+ 
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+
+[Table of Contents](#toc)
+<a name="day-60"></a>
+### Day 60: December 13, 2018 
+
+**Today's Focus**: 
+
+ - Modals in bootstrap:
+
+**Details**:
+.
+- The modal components is a dialog box/popup windows that is displayed on top of the current page.
+modal contains mainly three part modal header, body footer(optional).Bootstrap support only one model at a time. data-toogle attribute opens the modal window and data target ponts to id of modal. we can add transition effect using fade class. To close the modal we define data-dismiss attribute to close button . we can align modal to center using modal-dialog centered we can add tootip to our modal also.
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+<a name="day-61"></a>
+### Day 61: December 14, 2018 
+
+**Today's Focus**: 
+
+ - Navigation in bootstrap:
+
+**Details**:
+.
+- navigation bars are the navigation header placed generally at top of website. using nav and nav-item class to create a horizontal menu. we can center our nav using justify-content-center and can make our certain nav-item active or in disabled state.we can also add dropdown menu to our navs. we can turn our nav menu to navigation pills use nav-pills. we can fill all available space with nav item using nav fill class. adding nav panel using nav-tabs and its content nav-content, adding fade animation to our nav panel.
 
  
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
