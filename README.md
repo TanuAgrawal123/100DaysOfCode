@@ -1036,3 +1036,16 @@ modal contains mainly three part modal header, body footer(optional).Bootstrap s
  
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
+[Table of Contents](#toc)
+<a name="day-62"></a>
+### Day 62: December 15, 2018 
+
+**Today's Focus**: 
+
+ - Navbar in bootstrap:
+
+**Details**:
+.
+- A navigation bar is a navigation header that is placed at the top of the page.A standard navigation bar is created with the .navbar class followed by a responsive collapse class.The navbar-brand class isused to highlight the brand/logo of page
+ 
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
