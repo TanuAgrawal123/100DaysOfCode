@@ -1066,9 +1066,10 @@ modal contains mainly three part modal header, body footer(optional).Bootstrap s
 - Add Documentation for my blog website which was made in Django
 -  Documented initial steps to run a django project on machine
  
-**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+**Link to work**: [here](https://github.com/TanuAgrawal123/django-framework/blob/master/README.md)
 
 [Table of Contents](#toc)
+
 <a name="day-64"></a>
 ### Day 64: December 17, 2018 
 
