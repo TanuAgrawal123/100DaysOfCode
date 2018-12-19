@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Bootstrap Example</title>
@@ -9,11 +8,12 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
   <script>
-  	$(function()
-  	{$('[data-toggle="popover"]').popover()})
+  	$(function(){
+  		('[data-toogle="tooltip"]).tooltip()
+  	})
   </script>
 </head>
 <body>
-	<button class="btn btn-info"  data-offset="50%" data-toggle="popover" data-animation="false" data-trigger="focus" data-delay="500" data-placement="bottom" data-html="true" title="<span class ='badge badge-primary'>popover title</span>"data-content="Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.">link</button>
-</body>
-</html>
+	<a href="#" data-toogle="tooltip" title="Tooltip">Tooltip</a>
+	</body>
+	</html>
