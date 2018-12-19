@@ -34,7 +34,9 @@
 [Day 55](#day-55) **08/12/18**|Forms in bootstrap.|[Day 56](#day-56) **09/12/18**| form layout in bootstrap|
 [Day 57](#day-57) **10/12/18**|Forms validation in bootstrap.|[Day 58](#day-58) **11/12/18**| input group in bootstrap|
 [Day 59](#day-59) **12/12/18**| jumbotron and list group in bootstrap |[Day 60](#day-60) **13/12/18**|Modals in bootstrap |
-[Day 61](#day-61) **14/12/18**| Navigation in bootstrap |[Day 62](#day-62) **13/12/18**| |
+[Day 61](#day-61) **14/12/18**| Navigation in bootstrap |[Day 62](#day-62) **15/12/18**|Navbars in bootstrap |
+[Day 63](#day-63) **16/12/18**|Learning how to document a project |[Day 64](#day-64) **17/12/18**|Pagination in bootstrap |
+[Day 65](#day-65) **18/12/18**|popover and progress bar in bootstrap |[Day 66](#day-66) **19/12/18**| |
 
 <a name="day-1"></a>
  
@@ -1046,6 +1048,52 @@ modal contains mainly three part modal header, body footer(optional).Bootstrap s
 
 **Details**:
 .
-- A navigation bar is a navigation header that is placed at the top of the page.A standard navigation bar is created with the .navbar class followed by a responsive collapse class.The navbar-brand class isused to highlight the brand/logo of page
+- A navigation bar is a navigation header that is placed at the top of the page.A standard navigation bar is created with the .navbar class followed by a responsive collapse class.The navbar-brand class isused to highlight the brand/logo of page.use of input-group and input-group-addon classes to attach an icon or help text next to the input field. we can dropdowns as a navigation bar.
  
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+<a name="day-63"></a>
+### Day 63: December 16, 2018 
+
+**Today's Focus**: 
+
+ -Learning how to document a project
+
+**Details**:
+.
+- Learned how to document a project so that others can use it on their own machine.
+- Add Documentation for my blog website which was made in Django
+-  Documented initial steps to run a django project on machine
+ 
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+<a name="day-64"></a>
+### Day 64: December 17, 2018 
+
+**Today's Focus**: 
+
+ - Pagination in bootstrap
+
+**Details**:
+.
+- Pagination in bootstrap: process of dividing a document into discrete pages, either electronic pages or printed pages.To create a basic pagination we use .pagination class. adding the active class to let the user know where he is presently and Use of disabled for links that appear un-clickable .we can resize the pagination block also. we can set the alignment of pagination using justify-content-center for centre alignment.
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+<a name="day-65"></a>
+### Day 65: December 18, 2018 
+
+**Today's Focus**: 
+
+ - popover and progress bar in bootstrap
+
+**Details**:
+.
+- popover in bootstrap:it is a pop-up box that appears when the user clicks on an element.To create a popover we must add the data-toggle="popover" attribute to an element link in button tag or anchor tag.
+Popovers must be initialized with jQuery: select the specified element and call the popover() method.To add the content for popover add the content inside data-content. we can also set delay time using data-delay for opening and closing our popover content. we can set the position of popover by using data-placement(by default it is set to right). we can use data-trigger="focus" attribute which will close the popover when clicking outside the element. 
+- progress bar in bootstrap:A progress bar can be used to show a user how far along he/she is in a process. use progress class to add it. use aria-valuenow to set the current progress percentage. we can add progress-bar-striped class progress-bar-animation to add animation. we can also add some text progress bar like progress percentage. 
+
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
