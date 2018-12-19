@@ -9,11 +9,11 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
   <script>
   	$(function(){
-  		('[data-toogle="tooltip"]).tooltip()
+  		$('[data-toogle="tooltip"]').tooltip()
   	})
   </script>
 </head>
 <body>
-	<a href="#" data-toogle="tooltip" title="Tooltip">Tooltip</a>
+	<button class="btn btn-primary" data-toogle="tooltip" title="<strong>Tooltip</strong> with <span class='badge badge-primary'>badge</span>" data-html="true" data-placement="right" data-delay="500" data-trigger="click" data-offset="25%">Tooltip</button>
 	</body>
 	</html>
