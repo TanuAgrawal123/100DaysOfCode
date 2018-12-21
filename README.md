@@ -36,7 +36,8 @@
 [Day 59](#day-59) **12/12/18**| jumbotron and list group in bootstrap |[Day 60](#day-60) **13/12/18**|Modals in bootstrap |
 [Day 61](#day-61) **14/12/18**| Navigation in bootstrap |[Day 62](#day-62) **15/12/18**|Navbars in bootstrap |
 [Day 63](#day-63) **16/12/18**|Learning how to document a project |[Day 64](#day-64) **17/12/18**|Pagination in bootstrap |
-[Day 65](#day-65) **18/12/18**|popover and progress bar in bootstrap |[Day 66](#day-66) **19/12/18**| |
+[Day 65](#day-65) **18/12/18**|popover and progress bar in bootstrap |[Day 66](#day-66) **19/12/18**|tooltip and scrollspy in bootstrap |
+[Day 67](#day-67) **20/12/18**|borders, clearfix, close icon, colors, and display utility in bootstrap.|[Day 68](#day-68) **21/12/18**| |
 
 <a name="day-1"></a>
  
@@ -1098,3 +1099,37 @@ Popovers must be initialized with jQuery: select the specified element and call 
 - progress bar in bootstrap:A progress bar can be used to show a user how far along he/she is in a process. use progress class to add it. use aria-valuenow to set the current progress percentage. we can add progress-bar-striped class progress-bar-animation to add animation. we can also add some text progress bar like progress percentage. 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+
+[Table of Contents](#toc)
+<a name="day-66"></a>
+### Day 66: December 19, 2018 
+
+**Today's Focus**:
+
+tooltip and scroolspy in bootstrap
+
+**Details**:
+
+- tooltip in bootstrap: small pop-up box that appears when the user moves the mouse pointer over an element. To create a tooltip we have to add the data-toggle="tooltip" attribute to an element. Tooltips must be initialized with jQuery by select the specified element and calling the tooltip() method. we can use  the data-placement attribute to set the position of the tooltip on top, bottom, left or the right side of the element.
+- Scrollspy in bootstrap: It is used to automatically update links in a navigation list based on scroll position. we have to add data-spy="scroll" to the element that should be used as the scrollable area. The element with data-spy="scroll" requires the CSS position property, with a value of "relative" to work properly.
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+<a name="day-67"></a>
+### Day 67: December 20, 2018 
+
+**Today's Focus**:
+
+borders, clearfix, close icon, colors and display utilities in bootstrap
+
+**Details**:
+
+- borders utility: to add or remove an element’s borders. Choose from all borders or one at a time. use of contextual color in choosing the border color. use of different classes to round the corners of an element.
+- clearfix and close icon utility: clearfix allows a container to wrap it's floated children. we can use clearfix utilty by simply adding clearfix class to parent element. close icon are used to dismiss the content of modals and alert. Bootstrap have awesome collection of contextual classes to give colors to various elements(like classes for text color are text-muted, text-secondary, text-white, text-success etc.) these contexual classes can be used as a background colors and over various link also.
+- display utility:THis utility can be used by class d-{value}. we can use display property to hide element using d-none classs or using any one of the breakpoint d-{sm,md,lg,xl}-none for responsive screen variation. we can change the display value of element using print class utility{like d-print-none will hide on print only}.
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+
+
