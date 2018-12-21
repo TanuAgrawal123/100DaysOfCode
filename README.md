@@ -1129,6 +1129,7 @@ borders, clearfix, close icon, colors and display utilities in bootstrap
 - borders utility: to add or remove an element’s borders. Choose from all borders or one at a time. use of contextual color in choosing the border color. use of different classes to round the corners of an element.
 - clearfix and close icon utility: clearfix allows a container to wrap it's floated children. we can use clearfix utilty by simply adding clearfix class to parent element. close icon are used to dismiss the content of modals and alert. Bootstrap have awesome collection of contextual classes to give colors to various elements(like classes for text color are text-muted, text-secondary, text-white, text-success etc.) these contexual classes can be used as a background colors and over various link also.
 - display utility:THis utility can be used by class d-{value}. we can use display property to hide element using d-none classs or using any one of the breakpoint d-{sm,md,lg,xl}-none for responsive screen variation. we can change the display value of element using print class utility{like d-print-none will hide on print only}.
+
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
 
