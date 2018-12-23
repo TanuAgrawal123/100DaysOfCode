@@ -37,7 +37,8 @@
 [Day 61](#day-61) **14/12/18**| Navigation in bootstrap |[Day 62](#day-62) **15/12/18**|Navbars in bootstrap |
 [Day 63](#day-63) **16/12/18**|Learning how to document a project |[Day 64](#day-64) **17/12/18**|Pagination in bootstrap |
 [Day 65](#day-65) **18/12/18**|popover and progress bar in bootstrap |[Day 66](#day-66) **19/12/18**|tooltip and scrollspy in bootstrap |
-[Day 67](#day-67) **20/12/18**|borders, clearfix, close icon, colors, and display utility in bootstrap.|[Day 68](#day-68) **21/12/18**| |
+[Day 67](#day-67) **20/12/18**|borders, clearfix, close icon, colors, and display utility in bootstrap.|[Day 68](#day-68) **21/12/18**|flexbox in bootstrap |n, screen reader, sizing,and shadow utility 
+[Day 69](#day-69) **22/12/18**|float, image replacement, position, screen reader, sizing,and shadow utility in bootstrap.|[Day 70](#day-70) **23/12/18**| |
 
 <a name="day-1"></a>
  
@@ -1132,5 +1133,43 @@ borders, clearfix, close icon, colors and display utilities in bootstrap
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
+
+[Table of Contents](#toc)
+
+<a name="day-68"></a>
+### Day 68: December 21, 2018 
+
+**Today's Focus**:
+
+flexbox in bootstrap:
+
+**Details**:
+
+-flexbox in bootstrap:help to control layout of bootstrap component.d-flex class help to create flexbox container. flexbox item can set in horizontal as well as vertical direction using appropriate class. use of justify content class to align flex item to different position(start,center,end between,around). use of flex fill class to set equal width of each class. we can also change the visual order of a  flex items with the .order classes.we can also control how flex items wrap in a flex container with .flex-nowrap (default), .flex-wrap or .flex-wrap-reverse classes. we can also makes our flex items responsive according to different screen size. 
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
+
+<a name="day-69"></a>
+### Day 69: December 22, 2018 
+
+**Today's Focus**:
+
+float,image replacement,position, screen reader, sizing, shadow utility in bootstrap:
+
+**Details**:
+
+-Float utility help us to float elements to left, right or disabled floating with a responsive variation acoording to screensize by using same grid breakpoints (sm,md,xl,lg).
+We can also hide content on a background image(using text-hide class) using image replacement utility.
+Using position utility we can fixed the element to specific position like using fixed-top class and fixed-bottom class to position element at top and bottom of viewport use of sticky-top class to Position an element at the top of the viewport, from edge to edge, but only after we scroll past it. 
+Using screen reader utility we can hide  an element to all devices except screen readers with .sr-only.
+by combining .sr-only with .sr-only-focusable to show the element again when it’s focused.
+ we can make an element as wide or as tall (relative to its parent) with our width and height utilities.
+ we can use box-shadow utility to add or remove shadow .
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
 
