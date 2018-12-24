@@ -1146,7 +1146,7 @@ flexbox in bootstrap:
 
 **Details**:
 
--flexbox in bootstrap:help to control layout of bootstrap component.d-flex class help to create flexbox container. flexbox item can set in horizontal as well as vertical direction using appropriate class. use of justify content class to align flex item to different position(start,center,end between,around). use of flex fill class to set equal width of each class. we can also change the visual order of a  flex items with the .order classes.we can also control how flex items wrap in a flex container with .flex-nowrap (default), .flex-wrap or .flex-wrap-reverse classes. we can also makes our flex items responsive according to different screen size. 
+- flexbox in bootstrap:help to control layout of bootstrap component.d-flex class help to create flexbox container. flexbox item can set in horizontal as well as vertical direction using appropriate class. use of justify content class to align flex item to different position(start,center,end between,around). use of flex fill class to set equal width of each class. we can also change the visual order of a  flex items with the .order classes.we can also control how flex items wrap in a flex container with .flex-nowrap (default), .flex-wrap or .flex-wrap-reverse classes. we can also makes our flex items responsive according to different screen size. 
 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
