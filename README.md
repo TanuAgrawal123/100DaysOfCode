@@ -1162,13 +1162,12 @@ float,image replacement,position, screen reader, sizing, shadow utility in boots
 
 **Details**:
 
--Float utility help us to float elements to left, right or disabled floating with a responsive variation acoording to screensize by using same grid breakpoints (sm,md,xl,lg).
-We can also hide content on a background image(using text-hide class) using image replacement utility.
-Using position utility we can fixed the element to specific position like using fixed-top class and fixed-bottom class to position element at top and bottom of viewport use of sticky-top class to Position an element at the top of the viewport, from edge to edge, but only after we scroll past it. 
-Using screen reader utility we can hide  an element to all devices except screen readers with .sr-only.
-by combining .sr-only with .sr-only-focusable to show the element again when it’s focused.
- we can make an element as wide or as tall (relative to its parent) with our width and height utilities.
- we can use box-shadow utility to add or remove shadow .
+- Float utility help us to float elements to left, right or disabled floating with a responsive 
+  variation acoording to screensize by using same grid breakpoints (sm,md,xl,lg).
+  We can also hide content on a background image(using text-hide class) using image replacement utility.
+  Using position utility we can fixed the element to specific position like using fixed-top class and fixed-bottom class to position element at top and bottom of viewport use of sticky-top class to Position an element at the top of the viewport, from edge to edge, but only after we scroll past it. 
+  Using screen reader utility we can hide  an element to all devices except screen readers with .sr-only by combining .sr-only with .sr-only-focusable to show the element again when it’s focused.
+  we can make an element as wide or as tall (relative to its parent) with our width and height utilities.we can use box-shadow utility to add or remove shadow .
 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
