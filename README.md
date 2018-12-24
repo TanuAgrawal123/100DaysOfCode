@@ -1183,9 +1183,9 @@ spacing and text utility in bootstrap:
 
 **Details**:
 
-- spacing utility assign responsive-friendly margin or padding values to an element through different classes.the classes are named as {property}{sides}-{size} for xs and {property}{sides}-{breakpoint}-{size} for sm, md, lg, and xl. where property are margin and padding(m,p)
-, sides are top bottom middle ,left, right, both left and right, both top and bottom{t,b,m,l,l,x,y} and size from 0 to 5.
-Using text alignment proerty we can realign text to components with text alignment classes.we can prevent wrapping of classes with .text-nowrap class. For longer content, we can add a .text-truncate class to truncate the text. we can also change font of our text to bold and italic. and can capitalize our text too. 
+ - spacing utility assign responsive-friendly margin or padding values to an element through different
+   classes.the classes are named as {property}{sides}-{size} for xs and {property}{sides}-{breakpoint}-{size} for sm, md, lg, and xl. where property are margin and padding(m,p) sides are top bottom middle ,left, right, both left and right, both top and bottom {t,b,m,l,l,x,y} and size from 0 to 5.
+   Using text alignment proerty we can realign text to components with text alignment classes.we can prevent wrapping of classes with .text-nowrap class. For longer content, we can add a .text-truncate class to truncate the text. we can also change font of our text to bold and italic. and can capitalize our text too. 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
