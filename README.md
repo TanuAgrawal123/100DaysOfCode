@@ -1198,8 +1198,10 @@ vertical alignment and visibilty utility and photo gallery template in bootstrap
 
 **Details**:
 
-- we can easily change the vertical alignment of inline, inline-block, inline-table, and table cell elements using vertical alignment property by choosing from .align-baseline, .align-top, .align-middle, .align-bottom, .align-text-bottom, and .align-text-top as needed. Visibilty utility helps to set the visibilty of elements using .visible or .invisible classes.
+- we can easily change the vertical alignment of inline, inline-block, inline-table, and table cell 
+  elements using vertical alignment property by choosing from .align-baseline, .align-top, .align-middle, .align-bottom, .align-text-bottom, and .align-text-top as needed. Visibilty utility helps to set the visibilty of elements using .visible or .invisible classes.
 
--Building a photo gallery template using heading lead component, pagination property and figures where our photo gallery  template is responsive according to different device size.
+- Building a photo gallery template using heading lead component, pagination property and figures where
+  our photo gallery  template is responsive according to different device size.
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
