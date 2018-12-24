@@ -38,7 +38,8 @@
 [Day 63](#day-63) **16/12/18**|Learning how to document a project |[Day 64](#day-64) **17/12/18**|Pagination in bootstrap |
 [Day 65](#day-65) **18/12/18**|popover and progress bar in bootstrap |[Day 66](#day-66) **19/12/18**|tooltip and scrollspy in bootstrap |
 [Day 67](#day-67) **20/12/18**|borders, clearfix, close icon, colors, and display utility in bootstrap.|[Day 68](#day-68) **21/12/18**|flexbox in bootstrap |n, screen reader, sizing,and shadow utility 
-[Day 69](#day-69) **22/12/18**|float, image replacement, position, screen reader, sizing,and shadow utility in bootstrap.|[Day 70](#day-70) **23/12/18**| |
+[Day 69](#day-69) **22/12/18**|float, image replacement, position, screen reader, sizing,and shadow utility in bootstrap.|[Day 70](#day-70) **23/12/18**| spacing and text utility in bootstrap|
+[Day 71](#day-71) **24/12/18**|vertical alignment, visibilty utility and photo gallery template in bootstrap.|
 
 <a name="day-1"></a>
  
@@ -1173,3 +1174,32 @@ by combining .sr-only with .sr-only-focusable to show the element again when itâ
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
 
+<a name="day-70"></a>
+### Day 70: December 23, 2018 
+
+**Today's Focus**:
+
+spacing and text utility in bootstrap:
+
+**Details**:
+
+- spacing utility assign responsive-friendly margin or padding values to an element through different classes.the classes are named as {property}{sides}-{size} for xs and {property}{sides}-{breakpoint}-{size} for sm, md, lg, and xl. where property are margin and padding(m,p)
+, sides are top bottom middle ,left, right, both left and right, both top and bottom{t,b,m,l,l,x,y} and size from 0 to 5.
+Using text alignment proerty we can realign text to components with text alignment classes.we can prevent wrapping of classes with .text-nowrap class. For longer content, we can add a .text-truncate class to truncate the text. we can also change font of our text to bold and italic. and can capitalize our text too. 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+<a name="day-71"></a>
+### Day 71: December 24, 2018 
+
+**Today's Focus**:
+
+vertical alignment and visibilty utility and photo gallery template in bootstrap:
+
+**Details**:
+
+- we can easily change the vertical alignment of inline, inline-block, inline-table, and table cell elements using vertical alignment property by choosing from .align-baseline, .align-top, .align-middle, .align-bottom, .align-text-bottom, and .align-text-top as needed. Visibilty utility helps to set the visibilty of elements using .visible or .invisible classes.
+
+-Building a photo gallery template using heading lead component, pagination property and figures where our photo gallery  template is responsive according to different device size.
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
