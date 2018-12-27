@@ -39,7 +39,8 @@
 [Day 65](#day-65) **18/12/18**|popover and progress bar in bootstrap |[Day 66](#day-66) **19/12/18**|tooltip and scrollspy in bootstrap |
 [Day 67](#day-67) **20/12/18**|borders, clearfix, close icon, colors, and display utility in bootstrap.|[Day 68](#day-68) **21/12/18**|flexbox in bootstrap |n, screen reader, sizing,and shadow utility 
 [Day 69](#day-69) **22/12/18**|float, image replacement, position, screen reader, sizing,and shadow utility in bootstrap.|[Day 70](#day-70) **23/12/18**| spacing and text utility in bootstrap|
-[Day 71](#day-71) **24/12/18**|vertical alignment, visibilty utility and photo gallery template in bootstrap.|
+[Day 71](#day-71) **24/12/18**|vertical alignment, visibilty utility and photo gallery template in bootstrap.|[Day 72](#day-72) **24/12/18**| Learned how to apply pagination in django and added some styling using bootstrap in blog app project. |
+[Day 73](#day-73) **26/12/18**| video gallery and login template in bootstrap|[Day 74](#day-74) **27/12/18**| |
 
 <a name="day-1"></a>
  
@@ -1188,6 +1189,7 @@ spacing and text utility in bootstrap:
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
+
 <a name="day-71"></a>
 ### Day 71: December 24, 2018 
 
@@ -1201,5 +1203,33 @@ vertical alignment and visibilty utility and photo gallery template in bootstrap
   elements using vertical alignment property by choosing from .align-baseline, .align-top, .align-middle, .align-bottom, .align-text-bottom, and .align-text-top as needed. Visibilty utility helps to set the visibilty of elements using .visible or .invisible classes.
 - Building a photo gallery template using heading lead component, pagination property and figures where
   our photo gallery  template is responsive according to different device size.
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+<a name="day-72"></a>
+### Day 72: December 25, 2018 
+
+**Today's Focus**:
+
+Learned how to apply pagination in django and added some styling using bootstrap in blog app project. 
+
+**Details**:
+
+Learned how to apply pagination in django and applying to blog app. Handling various errors in pagination . Learned the difference between Paginator.get_page(number) and Paginator.page(number) method. Added styling in bootstrap in blog app project.    
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+
+<a name="day-73"></a>
+### Day 73: December 26, 2018 
+
+**Today's Focus**:
+
+Video gallery and login template in bootstrap:
+
+**Details**:
+
+- Building a video gallery template using bootstrap. To buld it we have to use a heading tag, lead paragraph, pagination component, figures and responsive in bits for working in different device sizes and orientations.
+- Login template in bootstrap. To build it we have to use a heading element, a full width jombotron component with fixed width content, various form element, and buttons and responsive in bits for working in different device sizes and orientations.
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)

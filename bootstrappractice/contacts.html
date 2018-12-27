@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<h1>Contact</h1>
+	<h4>Address:</h4>
+	<address>
+		<strong>Empire State Building</strong><br>
+		350 5th Avenue<br>
+		<abbr title="Telephone">T:</abbr><a href="tel:+12127363100">(212) 736-3100</a><br>
+		<abbr title="Mail">M:</abbr><a href="mail to:example131@domain.com">example131@domain.com</a>
+
+	</address>
+	<h4>opening hours:</h4>
+	<p>
+	MON-TUES:10am -6 pm<br>
+	FRI-SAT: 10am - 10 pm<br>
+	SUN: 10 am -8 pm<br>
+</p>
+<h4>Send us a message:</h4>
+
+
+	<form action="#">
+	<div class="form-group">
+	<label for="name">Name</label>
+	<input type="text" id="name" class="form-control" placeholder="Name" required>
+	</div>
+	<div class="form-group">
+	<label for="email">Email</label>
+	<input type="email" id="email" class="form-control" placeholder="Email" required>
+	</div> 
+<div class="form-group">
+	<label for="telephone">Telephone</label>
+	<input type="tel" id="telephone" class="form-control" placeholder="0123456789" required>
+	</div>
+	<div class="form-group">
+	<label for="select">Department:</label>
+	<select id="select" class="form-control" aria-describedby="select-helpBlock" required>
+		<option value="">--select here--</option>
+		<option value="business">Bussiness</option>
+		<option value="sale">Sale</option>
+		<option value="support">Support</option>
+</select>
+	<small id="select-helpBlock" class="form-text">Please select the recipent of your message</small>
+</div>
+<div class="form-group">
+	<label for="textarea">Message:</label>
+	<textarea id="textarea" class="form-control" rows="5" placeholder="Write your message here...." required></textarea>
+</div>
+<button type="submit" class="btn btn-primary">Submit</button>
+<button type="reset" class="btn btn-secondary">Reset</button>
+</form>
+<h4>Where to find us:</h4>
+<div class="embed-responsive embed-responsive-4by3">
+	<iframe src="https://www.google.com/maps/reviews/@25.4526769,78.597051,17z/data=!3m1!4b1!4m5!14m4!1m3!1m2!1s113477864657503478699!2s" width="600" height="450" frameborder="0" style="border:0" allowscreen></iframe>
+</div>
+</body>
