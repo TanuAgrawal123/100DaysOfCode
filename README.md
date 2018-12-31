@@ -34,7 +34,7 @@
 [Day 55](#day-55) **08/12/18**|Forms in bootstrap.|[Day 56](#day-56) **09/12/18**| form layout in bootstrap|
 [Day 57](#day-57) **10/12/18**|Forms validation in bootstrap.|[Day 58](#day-58) **11/12/18**| input group in bootstrap|
 [Day 59](#day-59) **12/12/18**| jumbotron and list group in bootstrap |[Day 60](#day-60) **13/12/18**|Modals in bootstrap |
-
+[Day 61](#day-61) **14/12/18**| Navigation in bootstrap |[Day 62](#day-62) **15/12/18**|Navbars in bootstrap |
  [Day 63](#day-63) **16/12/18**|Learning how to document a project |[Day 64](#day-64) **17/12/18**|Pagination in bootstrap |
 [Day 65](#day-65) **18/12/18**|popover and progress bar in bootstrap |[Day 66](#day-66) **19/12/18**|tooltip and scrollspy in bootstrap |
 [Day 67](#day-67) **20/12/18**|borders, clearfix, close icon, colors, and display utility in bootstrap.|[Day 68](#day-68) **21/12/18**|flexbox in bootstrap |n, screen reader, sizing,and shadow utility 
