@@ -1258,9 +1258,10 @@ Video gallery and login template in bootstrap:
 
 **Details**:
 
--Design a footer template using bootstrap. to design a footer template we have used an using unordered list, the dropdown component, various topographical component for heading addresses. The final footer template is responsive according to various device size and orientation.(https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+- Design a footer template using bootstrap. to design a footer template we have used an using unordered list, the dropdown component, various topographical component for heading addresses. The final footer template is responsive according to various device size and orientation.
 
-**Link to work**: [here]
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
 
 
 <a name="day-76"></a>
