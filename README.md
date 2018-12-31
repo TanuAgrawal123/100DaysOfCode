@@ -34,13 +34,15 @@
 [Day 55](#day-55) **08/12/18**|Forms in bootstrap.|[Day 56](#day-56) **09/12/18**| form layout in bootstrap|
 [Day 57](#day-57) **10/12/18**|Forms validation in bootstrap.|[Day 58](#day-58) **11/12/18**| input group in bootstrap|
 [Day 59](#day-59) **12/12/18**| jumbotron and list group in bootstrap |[Day 60](#day-60) **13/12/18**|Modals in bootstrap |
-[Day 61](#day-61) **14/12/18**| Navigation in bootstrap |[Day 62](#day-62) **15/12/18**|Navbars in bootstrap |
-[Day 63](#day-63) **16/12/18**|Learning how to document a project |[Day 64](#day-64) **17/12/18**|Pagination in bootstrap |
+
+ [Day 63](#day-63) **16/12/18**|Learning how to document a project |[Day 64](#day-64) **17/12/18**|Pagination in bootstrap |
 [Day 65](#day-65) **18/12/18**|popover and progress bar in bootstrap |[Day 66](#day-66) **19/12/18**|tooltip and scrollspy in bootstrap |
 [Day 67](#day-67) **20/12/18**|borders, clearfix, close icon, colors, and display utility in bootstrap.|[Day 68](#day-68) **21/12/18**|flexbox in bootstrap |n, screen reader, sizing,and shadow utility 
 [Day 69](#day-69) **22/12/18**|float, image replacement, position, screen reader, sizing,and shadow utility in bootstrap.|[Day 70](#day-70) **23/12/18**| spacing and text utility in bootstrap|
 [Day 71](#day-71) **24/12/18**|vertical alignment, visibilty utility and photo gallery template in bootstrap.|[Day 72](#day-72) **24/12/18**| Learned how to apply pagination in django and added some styling using bootstrap in blog app project. |
-[Day 73](#day-73) **26/12/18**| video gallery and login template in bootstrap|[Day 74](#day-74) **27/12/18**| |
+[Day 73](#day-73) **26/12/18**| video gallery and login template in bootstrap|[Day 74](#day-74) **27/12/18**|Worked on poll app based on django framework |
+[Day 75](#day-75) **28/12/18**| learned to design a footer template in bootstrap|[Day 76](#day-76) **29/12/18**|Worked on poll app based on django framework |
+[Day 77](#day-77) **30/12/18**|Worked on poll app based on django framework |[Day 78](#day-78) **31/12/18**| |
 
 <a name="day-1"></a>
  
@@ -1217,7 +1219,7 @@ Learned how to apply pagination in django and added some styling using bootstrap
 
 Learned how to apply pagination in django and applying to blog app. Handling various errors in pagination . Learned the difference between Paginator.get_page(number) and Paginator.page(number) method. Added styling in bootstrap in blog app project.    
 
-**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+**Link to work**: [here](https://github.com/TanuAgrawal123/django-framework)
 
 
 <a name="day-73"></a>
@@ -1233,3 +1235,57 @@ Video gallery and login template in bootstrap:
 - Login template in bootstrap. To build it we have to use a heading element, a full width jombotron component with fixed width content, various form element, and buttons and responsive in bits for working in different device sizes and orientations.
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+<a name="day-74"></a>
+### Day 74: December 27, 2018 
+
+**Today's Focus**: Worked on poll app based on django framework
+
+
+
+**Details**:
+
+- Worked on front end of poll app by designing its index file making it some what like a would you rather like site (either.io ) using botstrap4 classes(like adding card classes, pagination classes using various contextual classes adding background image and many other features) and adding pagination feature  on the page to paginate over the questions. 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+
+<a name="day-75"></a>
+### Day 75: December 28, 2018 
+
+**Today's Focus**: learned to designed footer template in bootstrap.
+
+
+**Details**:
+
+-Design a footer template using bootstrap. to design a footer template we have used an using unordered list, the dropdown component, various topographical component for heading addresses. The final footer template is responsive according to various device size and orientation.(https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+**Link to work**: [here]
+
+
+<a name="day-76"></a>
+### Day 76: December 29, 2018 
+
+**Today's Focus**: Worked on poll app based on django framework
+
+
+
+**Details**:
+
+- Worked on front end of poll app by designing its different template using botstrap4 classes and added a signup form feature using UserCreationForm feature of bootstrap and adding extra field in form (email). UserCreationForm give predefined build form for users but we can add addition fields and features too. 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+<a name="day-77"></a>
+### Day 77: December 30, 2018 
+
+**Today's Focus**: Worked on poll app based on django framework
+
+
+
+**Details**:
+- Worked on front end of poll app by designing different templates (index.html, register.html,result.html) using mainly bootstrap4 classes.  added a django-crispy-forms  which provides with a |crispy filter and {% crispy %} tag that will let us control the rendering behavior of  Django forms in a very elegant way.
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
