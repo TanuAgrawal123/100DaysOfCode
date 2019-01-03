@@ -42,7 +42,10 @@
 [Day 71](#day-71) **24/12/18**|vertical alignment, visibilty utility and photo gallery template in bootstrap.|[Day 72](#day-72) **24/12/18**| Learned how to apply pagination in django and added some styling using bootstrap in blog app project. |
 [Day 73](#day-73) **26/12/18**| video gallery and login template in bootstrap|[Day 74](#day-74) **27/12/18**|Worked on poll app based on django framework |
 [Day 75](#day-75) **28/12/18**| learned to design a footer template in bootstrap|[Day 76](#day-76) **29/12/18**|Worked on poll app based on django framework |
-[Day 77](#day-77) **30/12/18**|Worked on poll app based on django framework |[Day 78](#day-78) **31/12/18**| |
+[Day 77](#day-77) **30/12/18**|Worked on poll app based on django framework |[Day 78](#day-78) **31/12/18**|Worked on poll app based on django framework |
+[Day 79](#day-79) **01/01/19**|Worked on poll app based on django framework |[Day 80](#day-80) **02/02/19**|Worked on poll app based on django framework |
+[Day 81](#day-81) **03/01/19**|Sitemap using bootstrap |[Day 78](#day-78) **04/01/19**| |
+
 
 <a name="day-1"></a>
  
@@ -1290,3 +1293,63 @@ Video gallery and login template in bootstrap:
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
 
+<a name="day-78"></a>
+### Day 78: December 31, 2018 
+
+**Today's Focus**: Worked on poll app based on django framework
+
+
+
+**Details**:
+- Worked on front end of poll app by designing different templates (index.html, register.html,result.html) using mainly bootstrap4 classes. added a login feature in poll app by adding an extra template in login.html and adding necessary changes in views.py file, urls.py file and settings.py file so that already register can login through their credential saved in database. 
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+<a name="day-79"></a>
+### Day 79: January 1, 2019 
+
+**Today's Focus**: Worked on poll app based on django framework
+
+
+
+**Details**:
+- Worked on front end of poll app by designing different templates (index.html, register.html,result.html) using mainly bootstrap4 classes. Added a logout features so that user can logout through the page. by adding an extra teplate logout.html and making necessary changes in views.py file, urls.py file and other templates. added some styling to that logout template. And read about social auth app django for login through google, github, facebook etc. 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+
+<a name="day-79"></a>
+### Day 79: January 1, 2019 
+
+**Today's Focus**: Worked on poll app based on django framework
+
+
+
+**Details**:
+- Worked on front end of poll app by designing different templates (index.html, register.html,result.html) using mainly bootstrap4 classes. Added a logout features so that user can logout through the page. by adding an extra teplate logout.html and making necessary changes in views.py file, urls.py file and other templates. added some styling to that logout template. 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+<a name="day-80"></a>
+### Day 80: January 2, 2019 
+
+**Today's Focus**: Worked on poll app based on django framework
+
+
+
+**Details**:
+- Worked on front end of poll app by designing different templates (index.html, register.html,result.html) using mainly bootstrap4 classes.Added a google social authentication feature by installing social auth app django.And making necessary changes in setting.py file like adding app to installed app, by congiuring authentication backends so user can login through normal login functionality and google login also, adding context processor and other necessary changes. configuring the url, obtaining the google oauth2 credential and making necessary changes in setting file. 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+<a name="day-81"></a>
+### Day 81: January 3, 2019 
+
+**Today's Focus**: Sitemap using bootstrap
+
+
+**Details**:
+- building responsive sitemap in bootstrap i.e  model of a website's content designed to help users to navigate the site. in this we will be mainly using heading element and nested  unordered list. the final template is responsive according to different device viewsize and viewport.
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
