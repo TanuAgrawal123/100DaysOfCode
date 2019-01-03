@@ -44,7 +44,7 @@
 [Day 75](#day-75) **28/12/18**| learned to design a footer template in bootstrap|[Day 76](#day-76) **29/12/18**|Worked on poll app based on django framework |
 [Day 77](#day-77) **30/12/18**|Worked on poll app based on django framework |[Day 78](#day-78) **31/12/18**|Worked on poll app based on django framework |
 [Day 79](#day-79) **01/01/19**|Worked on poll app based on django framework |[Day 80](#day-80) **02/02/19**|Worked on poll app based on django framework |
-[Day 81](#day-81) **03/01/19**|Sitemap using bootstrap |[Day 78](#day-78) **04/01/19**| |
+[Day 81](#day-81) **03/01/19**|Sitemap using bootstrap |[Day 82](#day-82) **04/01/19**| |
 
 
 <a name="day-1"></a>
@@ -1318,18 +1318,6 @@ Video gallery and login template in bootstrap:
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
 
-
-<a name="day-79"></a>
-### Day 79: January 1, 2019 
-
-**Today's Focus**: Worked on poll app based on django framework
-
-
-
-**Details**:
-- Worked on front end of poll app by designing different templates (index.html, register.html,result.html) using mainly bootstrap4 classes. Added a logout features so that user can logout through the page. by adding an extra teplate logout.html and making necessary changes in views.py file, urls.py file and other templates. added some styling to that logout template. 
-
-**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
 
 <a name="day-80"></a>
 ### Day 80: January 2, 2019 
