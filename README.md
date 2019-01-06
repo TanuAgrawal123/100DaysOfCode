@@ -1352,7 +1352,7 @@ Video gallery and login template in bootstrap:
 
 - python decouple is a library that helps you to hide your secret credential from source code by strictly separating the settings parameters from your source code.and storing information in .env files or .ini files.
 
-**Link to work**: [here]()
+**Link to work**: [here](N/A)
 
 
 <a name="day-83"></a>
@@ -1378,7 +1378,8 @@ Video gallery and login template in bootstrap:
 
 **Details**:
 
-web scraping a technique for extracting information from sites. Beautifulsoup is an awesome library for pulling data out of HTML and XML files but it cann't extract data from sites so we use requests library for this task. learned about different types of parser(like lxml, html5lib) for parsing html and xml files.learned about different method like prettify(), find(), find_all() etc.
+- web scraping a technique for extracting information from sites.
+  Beautifulsoup is an awesome library for pulling data out of HTML and XML files but it cann't extract data from sites so we use requests library for this task. learned about different types of parser(like lxml, html5lib) for parsing html and xml files.learned about different method like prettify(), find(), find_all() etc.
 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/webscrape/scrape.ipynb)
