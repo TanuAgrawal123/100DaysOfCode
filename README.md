@@ -44,8 +44,8 @@
 [Day 75](#day-75) **28/12/18**| learned to design a footer template in bootstrap|[Day 76](#day-76) **29/12/18**|Worked on poll app based on django framework |
 [Day 77](#day-77) **30/12/18**|Worked on poll app based on django framework |[Day 78](#day-78) **31/12/18**|Worked on poll app based on django framework |
 [Day 79](#day-79) **01/01/19**|Worked on poll app based on django framework |[Day 80](#day-80) **02/02/19**|Worked on poll app based on django framework |
-[Day 81](#day-81) **03/01/19**|Sitemap using bootstrap |[Day 82](#day-82) **04/01/19**| |
-
+[Day 81](#day-81) **03/01/19**|Sitemap using bootstrap |[Day 82](#day-82) **04/01/19**|Read about python decouple|
+[Day 83](#day-83) **05/01/19**|learned about python decouple and implementing on poll app |[Day 84](#day-84) **06/01/19**|learned about web scraping using beautifulsoup4 library |
 
 <a name="day-1"></a>
  
@@ -1341,3 +1341,45 @@ Video gallery and login template in bootstrap:
 - building responsive sitemap in bootstrap i.e  model of a website's content designed to help users to navigate the site. in this we will be mainly using heading element and nested  unordered list. the final template is responsive according to different device viewsize and viewport.
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+<a name="day-82"></a>
+### Day 82: January 4, 2019 
+
+**Today's Focus**: Read about python decouple  
+
+
+**Details**:
+
+- python decouple is a library that helps you to hide your secret credential from source code by strictly separating the settings parameters from your source code.and storing information in .env files or .ini files.
+
+**Link to work**: [here]()
+
+
+<a name="day-83"></a>
+### Day 83: January 5, 2019 
+
+**Today's Focus**:  learned about python decouple and implementing on poll app 
+
+
+
+**Details**:
+- Learned about python decouple and implementing on poll app project by installing python-decouple library and making .env file in root directory to store the essential credential in it and adding it to .gitignore file. we have to also make some changes to our settings file so that those credential can be used in setting.py file  by importing config object and retriving the configuration parameter.
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+
+<a name="day-84"></a>
+### Day 84: January 6, 2019 
+
+**Today's Focus**: learned about web scraping using beautifulsoup4 library
+
+
+
+**Details**:
+
+web scraping a technique for extracting information from sites. Beautifulsoup is an awesome library for pulling data out of HTML and XML files but it cann't extract data from sites so we use requests library for this task. learned about different types of parser(like lxml, html5lib) for parsing html and xml files.learned about different method like prettify(), find(), find_all() etc.
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/webscrape/scrape.ipynb)
+
