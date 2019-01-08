@@ -46,6 +46,8 @@
 [Day 79](#day-79) **01/01/19**|Worked on poll app based on django framework |[Day 80](#day-80) **02/02/19**|Worked on poll app based on django framework |
 [Day 81](#day-81) **03/01/19**|Sitemap using bootstrap |[Day 82](#day-82) **04/01/19**|Read about python decouple|
 [Day 83](#day-83) **05/01/19**|learned about python decouple and implementing on poll app |[Day 84](#day-84) **06/01/19**|learned about web scraping using beautifulsoup4 library |
+[Day 85](#day-85) **07/01/19**|password reset feature in django  |[Day 86](#day-86) **08/01/19**|password reset feature in django |
+
 
 <a name="day-1"></a>
  
@@ -1352,7 +1354,7 @@ Video gallery and login template in bootstrap:
 
 - python decouple is a library that helps you to hide your secret credential from source code by strictly separating the settings parameters from your source code.and storing information in .env files or .ini files.
 
-**Link to work**: [here](N/A)
+**Link to work**: [N/A]
 
 
 <a name="day-83"></a>
@@ -1384,3 +1386,28 @@ Video gallery and login template in bootstrap:
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/webscrape/scrape.ipynb)
 
+<a name="day-85"></a>
+### Day 85: January 7, 2019 
+
+**Today's Focus**: learned about password reset features in django
+
+
+**Details**:
+
+- learned about password reset feature in django if user want to reset his/her password. First of all we have to confiqure to send mail by making some changes in setting.py file. like adding email_backends, email_host, email_password email_port. After that we will use build in views of django password reset by adding them to urls.py file.Then you use  build in templates or can make template and can add styling according to you. 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/webscrape/scrape.ipynb)
+
+<a name="day-86"></a>
+### Day 86: January 8, 2019 
+
+**Today's Focus**: Paasword reset feature in django  
+
+
+
+**Details**:
+
+- Read about  adding password reset features in django, about all its 4 build in views, about using gmail as mail service for sending mails (having smtp.gmail.com as a email host), effect of two step verification of google and creating app password for it. 
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/webscrape/scrape.ipynb)
