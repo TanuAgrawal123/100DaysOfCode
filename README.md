@@ -47,7 +47,7 @@
 [Day 81](#day-81) **03/01/19**|Sitemap using bootstrap |[Day 82](#day-82) **04/01/19**|Read about python decouple|
 [Day 83](#day-83) **05/01/19**|learned about python decouple and implementing on poll app |[Day 84](#day-84) **06/01/19**|learned about web scraping using beautifulsoup4 library |
 [Day 85](#day-85) **07/01/19**|password reset feature in django  |[Day 86](#day-86) **08/01/19**|password reset feature in django |
-
+[Day 87](#day-87) **09/01/19**|Read about Models and user model and extending build in user model in django .|[Day 88](#day-88) **10/01/19**| |
 
 <a name="day-1"></a>
  
@@ -1396,7 +1396,7 @@ Video gallery and login template in bootstrap:
 
 - learned about password reset feature in django if user want to reset his/her password. First of all we have to confiqure to send mail by making some changes in setting.py file. like adding email_backends, email_host, email_password email_port. After that we will use build in views of django password reset by adding them to urls.py file.Then you use  build in templates or can make template and can add styling according to you. 
 
-**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/webscrape/scrape.ipynb)
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
 
 <a name="day-86"></a>
 ### Day 86: January 8, 2019 
@@ -1410,4 +1410,17 @@ Video gallery and login template in bootstrap:
 - Read about  adding password reset features in django, about all its 4 build in views, about using gmail as mail service for sending mails (having smtp.gmail.com as a email host), effect of two step verification of google and creating app password for it. 
 
 
-**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/webscrape/scrape.ipynb)
+**Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+<a name="day-87"></a>
+### Day 87: January 9, 2019 
+
+**Today's Focus**: Read about Models and user model and extending build in user model in django  
+
+
+
+**Details**:
+
+-Read about models in django from official documentation. Each model is inherited from django.db.models.Model.learned about different database field (defined by class attributed). learned about different field types (like varchar), field option(true, blank, choice). learned about different relationship- mant to one relationship, many to many relationship, one to one relationship. Learned about django build in user model.methods of extending user build in model- Proxy model(no new table is created), one to one link with a user model(new database table holding relationship with existing user model), Creating a custom user model extending base user model( inheriting from AbstractBaseUser used when application have specific requirements in relation to the authentication process.).
+
+**Link to work**: [N/A]()
