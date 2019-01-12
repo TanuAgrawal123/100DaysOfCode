@@ -47,7 +47,9 @@
 [Day 81](#day-81) **03/01/19**|Sitemap using bootstrap |[Day 82](#day-82) **04/01/19**|Read about python decouple|
 [Day 83](#day-83) **05/01/19**|learned about python decouple and implementing on poll app |[Day 84](#day-84) **06/01/19**|learned about web scraping using beautifulsoup4 library |
 [Day 85](#day-85) **07/01/19**|password reset feature in django  |[Day 86](#day-86) **08/01/19**|password reset feature in django |
-[Day 87](#day-87) **09/01/19**|Read about Models and user model and extending build in user model in django .|[Day 88](#day-88) **10/01/19**| |
+[Day 87](#day-87) **09/01/19**|Read about Models and user model and extending build in user model in django .|[Day 88](#day-88) **10/01/19**|Design a page (project-1(Cameo landing page) of udemy) using bootstrap.|
+[Day 89](#day-89) **11/01/19**|Design a page (project-1(Cameo landing page) of udemy) using bootstrap .|[Day 90](#day-90) **12/01/19**|Complete project-1(Cameo landing page) of udemy using bootstrap. and read about queries in django from official documentation|
+
 
 <a name="day-1"></a>
  
@@ -1180,6 +1182,8 @@ float,image replacement,position, screen reader, sizing, shadow utility in boots
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
+[Table of Contents](#toc)
+
 
 <a name="day-70"></a>
 ### Day 70: December 23, 2018 
@@ -1195,6 +1199,8 @@ spacing and text utility in bootstrap:
    Using text alignment proerty we can realign text to components with text alignment classes.we can prevent wrapping of classes with .text-nowrap class. For longer content, we can add a .text-truncate class to truncate the text. we can also change font of our text to bold and italic. and can capitalize our text too. 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+
+[Table of Contents](#toc)
 
 
 <a name="day-71"></a>
@@ -1213,6 +1219,9 @@ vertical alignment and visibilty utility and photo gallery template in bootstrap
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
+[Table of Contents](#toc)
+
+
 <a name="day-72"></a>
 ### Day 72: December 25, 2018 
 
@@ -1225,6 +1234,9 @@ Learned how to apply pagination in django and added some styling using bootstrap
 Learned how to apply pagination in django and applying to blog app. Handling various errors in pagination . Learned the difference between Paginator.get_page(number) and Paginator.page(number) method. Added styling in bootstrap in blog app project.    
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/django-framework)
+
+[Table of Contents](#toc)
+
 
 
 <a name="day-73"></a>
@@ -1254,7 +1266,8 @@ Video gallery and login template in bootstrap:
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
 
-
+[Table of Contents](#toc)
+ 
 <a name="day-75"></a>
 ### Day 75: December 28, 2018 
 
@@ -1267,6 +1280,7 @@ Video gallery and login template in bootstrap:
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
 
+[Table of Contents](#toc)
 
 
 <a name="day-76"></a>
@@ -1281,6 +1295,9 @@ Video gallery and login template in bootstrap:
 - Worked on front end of poll app by designing its different template using botstrap4 classes and added a signup form feature using UserCreationForm feature of bootstrap and adding extra field in form (email). UserCreationForm give predefined build form for users but we can add addition fields and features too. 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+[Table of Contents](#toc)
+
 
 <a name="day-77"></a>
 ### Day 77: December 30, 2018 
@@ -1308,6 +1325,9 @@ Video gallery and login template in bootstrap:
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
 
+[Table of Contents](#toc)
+
+
 <a name="day-79"></a>
 ### Day 79: January 1, 2019 
 
@@ -1319,6 +1339,9 @@ Video gallery and login template in bootstrap:
 - Worked on front end of poll app by designing different templates (index.html, register.html,result.html) using mainly bootstrap4 classes. Added a logout features so that user can logout through the page. by adding an extra teplate logout.html and making necessary changes in views.py file, urls.py file and other templates. added some styling to that logout template. And read about social auth app django for login through google, github, facebook etc. 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+[Table of Contents](#toc)
+
 
 
 <a name="day-80"></a>
@@ -1333,6 +1356,9 @@ Video gallery and login template in bootstrap:
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
 
+[Table of Contents](#toc)
+
+
 <a name="day-81"></a>
 ### Day 81: January 3, 2019 
 
@@ -1343,6 +1369,9 @@ Video gallery and login template in bootstrap:
 - building responsive sitemap in bootstrap i.e  model of a website's content designed to help users to navigate the site. in this we will be mainly using heading element and nested  unordered list. the final template is responsive according to different device viewsize and viewport.
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice)
+ 
+ [Table of Contents](#toc)
+
 
 <a name="day-82"></a>
 ### Day 82: January 4, 2019 
@@ -1355,6 +1384,9 @@ Video gallery and login template in bootstrap:
 - python decouple is a library that helps you to hide your secret credential from source code by strictly separating the settings parameters from your source code.and storing information in .env files or .ini files.
 
 **Link to work**: [N/A]
+
+[Table of Contents](#toc)
+
 
 
 <a name="day-83"></a>
@@ -1369,6 +1401,9 @@ Video gallery and login template in bootstrap:
 
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
+
+[Table of Contents](#toc)
+
 
 
 <a name="day-84"></a>
@@ -1398,6 +1433,9 @@ Video gallery and login template in bootstrap:
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
 
+[Table of Contents](#toc)
+
+
 <a name="day-86"></a>
 ### Day 86: January 8, 2019 
 
@@ -1412,6 +1450,9 @@ Video gallery and login template in bootstrap:
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/poll_app)
 
+[Table of Contents](#toc)
+
+
 <a name="day-87"></a>
 ### Day 87: January 9, 2019 
 
@@ -1424,3 +1465,55 @@ Video gallery and login template in bootstrap:
 -Read about models in django from official documentation. Each model is inherited from django.db.models.Model.learned about different database field (defined by class attributed). learned about different field types (like varchar), field option(true, blank, choice). learned about different relationship- mant to one relationship, many to many relationship, one to one relationship. Learned about django build in user model.methods of extending user build in model- Proxy model(no new table is created), one to one link with a user model(new database table holding relationship with existing user model), Creating a custom user model extending base user model( inheriting from AbstractBaseUser used when application have specific requirements in relation to the authentication process.).
 
 **Link to work**: [N/A]()
+
+[Table of Contents](#toc)
+
+
+<a name="day-88"></a>
+### Day 88: January 10, 2019 
+
+**Today's Focus**: Design a page (project-1(Cameo landing page) of udemy) using bootstrap 
+
+**Details**:
+
+- Design a page using bootstrap framework. started with building
+  navigation bar using scroll by components so that the link is highlighted when we scroll the page, responsive embed with youtube video, carousels with some indicators and arrows, use a card layout, jumbotron feature and much more.
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice/project)
+
+[Table of Contents](#toc)
+
+
+<a name="day-89"></a>
+### Day 89: January 11, 2019 
+
+**Today's Focus**: Design a page (project-1(Cameo landing page) of udemy) using bootstrap 
+
+**Details**:
+
+- Design a page using bootstrap framework.Design a form in it, footer part, review part using blockquote tag.Use a responsive grid system for different viewsize of the devices.Use utilities for adding appropriate spaces between different section. Use the modal class to display info and privacy policy.
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice/project)
+
+
+
+[Table of Contents](#toc)
+
+
+<a name="day-90"></a>
+### Day 90: January 12, 2019 
+
+**Today's Focus**: Complete a project-1(Cameo landing page) of udemy using bootstrap and read about queries in django through official documentation.
+
+**Details**:
+
+- Design a page using bootstrap framework.Added some fontawesome icon for quotes and other different icons on features,pricing, footer section and on bottons(like instagram icon, android icon, paint-brush icon etc.).Uses google font to add different font on heading and paragraphs.
+
+- Read about various qurery set method in details like all, get, filter, exclude.we can use a subset of Python’s array-slicing syntax to limit the querySet to a certain number of results.  Learned about field lookup(these are keyword argument to our querset method)- exact(case sensitive), contains, startwith, endwith,lte, pk. iexact(incasesensitive). Comparing two fields of same model using F() expresssion (using filter method).we can also perform artematic and bitwise (.bitand, .bitor) operation with F()object.
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice/project)
+
+[Table of Contents](#toc)
+
+
+
