@@ -49,6 +49,8 @@
 [Day 85](#day-85) **07/01/19**|password reset feature in django  |[Day 86](#day-86) **08/01/19**|password reset feature in django |
 [Day 87](#day-87) **09/01/19**|Read about Models and user model and extending build in user model in django .|[Day 88](#day-88) **10/01/19**|Design a page (project-1(Cameo landing page) of udemy) using bootstrap.|
 [Day 89](#day-89) **11/01/19**|Design a page (project-1(Cameo landing page) of udemy) using bootstrap .|[Day 90](#day-90) **12/01/19**|Complete project-1(Cameo landing page) of udemy using bootstrap. and read about queries in django from official documentation|
+[Day 91](#day-91) **13/01/19**| |[Day 92](#day-92) **14/01/19**| |
+[Day 93](#day-89) **15/01/19**| |[Day 94](#day-94) **16/01/19**| |
 
 
 <a name="day-1"></a>
@@ -1512,6 +1514,71 @@ Video gallery and login template in bootstrap:
 - Read about various qurery set method in details like all, get, filter, exclude.we can use a subset of Python’s array-slicing syntax to limit the querySet to a certain number of results.  Learned about field lookup(these are keyword argument to our querset method)- exact(case sensitive), contains, startwith, endwith,lte, pk. iexact(incasesensitive). Comparing two fields of same model using F() expresssion (using filter method).we can also perform artematic and bitwise (.bitand, .bitor) operation with F()object.
 
 **Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice/project)
+
+
+[Table of Contents](#toc)
+
+
+
+<a name="day-91"></a>
+### Day 91: January 13, 2019 
+
+**Today's Focus**: Design a blog post page using bootstrap 
+
+
+
+**Details**:  Design a  responsive(according to different device size) blog post page using a bootstrap (project 3 of udemy). create a navbar, having different buttons,dropdown,searchbar, use batches to add various tags. Added a comment form and added other styling .
+
+- 
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice/project)
+
+[Table of Contents](#toc)
+
+
+
+<a name="day-92"></a>
+### Day 92: January 14, 2019 
+
+**Today's Focus**:  Design a blog post page using bootstrap 
+
+**Details**: Design a blog post page using bootstrap .Added info about author using card component added various social links, added fonawesome icons, added content block using card. and add other styling
+
+- 
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice/project)
+
+[Table of Contents](#toc)
+
+<a name="day-93"></a>
+### Day 93: January 15, 2019 
+
+**Today's Focus**:Added comment feature in blog app using django 
+
+**Details**: Added a comment faature in a blog app  using django so that user can comment on a particular post by adding a comment model in models.py and making necessary changes in views, forms templates, urls.py file. like registering the comment model so that it can added to database, saving comments to our database using views.py file.
+
+- 
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/tree/master/bootstrappractice/project)
+
+[Table of Contents](#toc)
+
+
+
+<a name="day-94"></a>
+### Day 94: January 16, 2019 
+
+**Today's Focus**: Started learning Mysql from udemy.
+
+**Details**:
+
+- Introduction theory,Creating  and dropping database, learned different data types, creating(adding columns)  and dropping the table, altering the table(like adding extra column, deleting a column, changing the column etc.) adding data to tables by adding a single row or adding multiple row deleting a particular row or rows trucating a table, generating a fake table.
+
+
+**Link to work**: [N/A]()
 
 [Table of Contents](#toc)
 
