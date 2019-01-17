@@ -50,8 +50,7 @@
 [Day 87](#day-87) **09/01/19**|Read about Models and user model and extending build in user model in django .|[Day 88](#day-88) **10/01/19**|Design a page (project-1(Cameo landing page) of udemy) using bootstrap.|
 [Day 89](#day-89) **11/01/19**|Design a page (project-1(Cameo landing page) of udemy) using bootstrap .|[Day 90](#day-90) **12/01/19**|Complete project-1(Cameo landing page) of udemy using bootstrap. and read about queries in django from official documentation|
 [Day 91](#day-91) **13/01/19**| Design a blog post page using bootstrap |[Day 92](#day-92) **14/01/19**|Design a blog post page using bootstrap |
-[Day 93](#day-93) **15/01/19**|Added comment feature in blog app using django
-|[Day 94](#day-94) **16/01/19**|Started learning Mysql from udemy.|
+[Day 93](#day-93) **15/01/19**| Added comment feature in blog app using django |[Day 94](#day-94) **16/01/19**|Started learning Mysql from udemy.|
 [Day 95](#day-95) **17/01/19**| Learned about Statement fundaments in Mysql from udemy|[Day 96](#day-96) **16/01/19**| |
 
 <a name="day-1"></a>
@@ -1595,7 +1594,8 @@ a name="day-95"></a>
 
 **Details**:
 
--Statement Fundamentals: SELECT statement , SELECT DISTINCT STATEMENT, WHERE clause(conditional clause), COUNT function (to count no of rows), ALIASES(to give temporary name to column or row), LIMIT and OFFSET(to return specified no of rows, offset sets the starting value), BETWEEN operator, IN(allow you to specify multiple values in a where clause) ORDER BY(to sort the results),aggregate function(COUNT,SUM,MIN,MAX,AVG), GROUP BY( used with aggregate functions to group the result-set by one or more columns), HAVING(where condition for GROUP BY clause).
+- Statement Fundamentals: SELECT statement , SELECT DISTINCT STATEMENT, WHERE
+  clause(conditional clause), COUNT function (to count no of rows), ALIASES(to give temporary name to column or row), LIMIT and OFFSET(to return specified no of rows, offset sets the starting value), BETWEEN operator, IN(allow you to specify multiple values in a where clause) ORDER BY(to sort the results),aggregate function(COUNT,SUM,MIN,MAX,AVG), GROUP BY( used with aggregate functions to group the result-set by one or more columns), HAVING(where condition for GROUP BY clause).
 
 
 **Link to work**: [N/A]()
