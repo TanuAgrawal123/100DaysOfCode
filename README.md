@@ -1587,7 +1587,7 @@ Video gallery and login template in bootstrap:
 
 [Table of Contents](#toc)
 
-a name="day-95"></a>
+<a name="day-95"></a>
 ### Day 95: January 17, 2019 
 
 **Today's Focus**: Learned Statement fundamentals in mysql from udemy.
