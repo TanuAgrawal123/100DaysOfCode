@@ -52,8 +52,8 @@
 [Day 91](#day-91) **13/01/19**| Design a blog post page using bootstrap |[Day 92](#day-92) **14/01/19**|Design a blog post page using bootstrap |
 [Day 93](#day-93) **15/01/19**| Added comment feature in blog app using django |[Day 94](#day-94) **16/01/19**|Started learning Mysql from udemy.|
 [Day 95](#day-95) **17/01/19**| Learned about Statement fundaments in Mysql from udemy|[Day 96](#day-96) **18/01/19**|Design a resume and CV page using bootstrap|
-[Day 97](#day-97) **19/01/19**| Completed resume and CV page using bootstrap and learned about Data types and operators in mysql from udemy. |[Day 98](#day-98) **20/01/19**| |
-[Day 99](#day-99) **21/01/19**|  |[Day 100](#day-1006) **22/01/19**| |
+[Day 97](#day-97) **19/01/19**| Completed resume and CV page using bootstrap and learned about Data types and operators in mysql from udemy. |[Day 98](#day-98) **20/01/19**|Strings, Mathematical function in mysql from udemy |
+[Day 99](#day-99) **21/01/19**|  |[Day 100](#day-1006) **22/01/19**|  |
 
 <a name="day-1"></a>
  
@@ -1634,4 +1634,16 @@ NOW(return current date and time), CURDATE(return current date), CURTIME(return 
 
 [Table of Contents](#toc)
 
+<a name="day-98"></a>
+### Day 98: January 20, 2019 
 
+**Today's Focus**:
+- Learned about strings, Mathematical function in mysql from udemy.
+
+**Details**:  
+
+- Learned about strings, Mathematical function in mysql- SUBSTR(return a range of string from a given string),CONCAT(concatenate two or more string),CONCAT_WS(conatenateby adding an extra symbol between string), ASCII(return ASCII value of first character in astring),BINARY REPRESENTATION,TRIM FUNCTION(remove uncessary spaces),LENGTH,UPPER,LOWER, REVERSE, REPLACE function maths function(RAND, ROUND). 
+
+**Link to work**: [N/A](#)
+
+[Table of Contents](#toc)
