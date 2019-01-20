@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-## This is a round 1 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 15/10/2018 to 23/01/2019.
+## This is a round 1 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 15/10/2018 to 22/01/2019.
 <a name="toc"></a>
 ### Table of Contents 
 |Day|Focus|Day|Focus|
@@ -51,7 +51,9 @@
 [Day 89](#day-89) **11/01/19**|Design a page (project-1(Cameo landing page) of udemy) using bootstrap .|[Day 90](#day-90) **12/01/19**|Complete project-1(Cameo landing page) of udemy using bootstrap. and read about queries in django from official documentation|
 [Day 91](#day-91) **13/01/19**| Design a blog post page using bootstrap |[Day 92](#day-92) **14/01/19**|Design a blog post page using bootstrap |
 [Day 93](#day-93) **15/01/19**| Added comment feature in blog app using django |[Day 94](#day-94) **16/01/19**|Started learning Mysql from udemy.|
-[Day 95](#day-95) **17/01/19**| Learned about Statement fundaments in Mysql from udemy|[Day 96](#day-96) **16/01/19**| |
+[Day 95](#day-95) **17/01/19**| Learned about Statement fundaments in Mysql from udemy|[Day 96](#day-96) **18/01/19**|Design a resume and CV page using bootstrap|
+[Day 97](#day-97) **19/01/19**| Completed resume and CV page using bootstrap and learned about Data types and operators in mysql from udemy. |[Day 98](#day-98) **20/01/19**| |
+[Day 99](#day-99) **21/01/19**|  |[Day 100](#day-1006) **22/01/19**| |
 
 <a name="day-1"></a>
  
@@ -1599,6 +1601,36 @@ Video gallery and login template in bootstrap:
 
 
 **Link to work**: [N/A]()
+
+[Table of Contents](#toc)
+
+<a name="day-96"></a>
+### Day 96: January 18, 2019 
+
+**Today's Focus**: Design Resume and CV page using bootstrap.
+
+**Details**:
+
+- Design a rsume and CV page using bootstrap: started designing a resume page using card component, grid system(to make it responsive for various device size) fontawesome feature. Made various card component to add introductory about myself, work experience, personal project, Eduction testimonial(add carousels feature).
+
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/bootstrappractice/project/poject2(resume).html)
+
+[Table of Contents](#toc)
+
+<a name="day-97"></a>
+### Day 97: January 19, 2019 
+
+**Today's Focus**: Completed resume and CV page using bootstrap and learned about Data types and operators in mysql from udemy.
+
+**Details**:
+
+- Completed resume annd cv (page using bootstrap using card component and grid system. Added contact info, portofolio, skills(using progress bar).
+
+- Learned about data types and operators in mysql- CHAR(fixed length,0 to 255) datatype, VARCHAR(not of fixed length), DECIMAL(total no of digit, digits after decimal), DATE(yyyy-mm-dd),TIME(hh-mm-ss), DATETIME(Return both date and time),
+NOW(return current date and time), CURDATE(return current date), CURTIME(return current time), Various other date time function (DAY(),DAYOFWEEK,MONTHNAME, DATEDIFF,DATE_ADD and many more), TIMESTAMP(have a limited range). 
+
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/bootstrappractice/project/poject2(resume).html)
 
 [Table of Contents](#toc)
 
