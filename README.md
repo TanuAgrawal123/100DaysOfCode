@@ -53,7 +53,7 @@
 [Day 93](#day-93) **15/01/19**| Added comment feature in blog app using django |[Day 94](#day-94) **16/01/19**|Started learning Mysql from udemy.|
 [Day 95](#day-95) **17/01/19**| Learned about Statement fundaments in Mysql from udemy|[Day 96](#day-96) **18/01/19**|Design a resume and CV page using bootstrap|
 [Day 97](#day-97) **19/01/19**| Completed resume and CV page using bootstrap and learned about Data types and operators in mysql from udemy. |[Day 98](#day-98) **20/01/19**|Strings, Mathematical function in mysql from udemy |
-[Day 99](#day-99) **21/01/19**| Learned about Relationship and joins in mysql in udemy |[Day 100](#day-1006) **22/01/19**| online forum webpage using bootstrap |
+[Day 99](#day-99) **21/01/19**| Learned about Relationship and joins in mysql in udemy |[Day 100](#day-100) **22/01/19**| online forum webpage using bootstrap |
 
 <a name="day-1"></a>
  
