@@ -1674,7 +1674,7 @@ NOW(return current date and time), CURDATE(return current date), CURTIME(return 
 
 - Design an online forum webpage using bootstrap: Design a webpage by including navbar, breadcrumbs, tables, card component and footer tag.
 
-** Completed by 100doc challenge!!**
+**Completed by 100doc challenge!!**
 
 **Link to work**: [N/A](#)
 
