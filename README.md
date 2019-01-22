@@ -1676,7 +1676,7 @@ NOW(return current date and time), CURDATE(return current date), CURTIME(return 
 
 **Completed by 100doc challenge!!**
 
-**Link to work**: [N/A](#)
+**Link to work**: [here](https://github.com/TanuAgrawal123/100DaysOfCode/blob/master/bootstrappractice/project/online%20forum.html)
 
 [Table of Contents](#toc)
 
